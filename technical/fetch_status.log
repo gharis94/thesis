@@ -1,0 +1,1294 @@
+2025-12-10 16:19:18,149 [INFO] ========== STARTING PSX DATA FETCH ==========
+2025-12-10 16:19:18,149 [INFO] Target Folder: psx_data_cleaned
+2025-12-10 16:19:18,149 [INFO] --- Processing: 786 ---
+2025-12-10 16:19:20,464 [INFO] [786] Saved 230 rows.
+2025-12-10 16:19:20,464 [INFO] --- Processing: AABS ---
+2025-12-10 16:19:22,126 [INFO] [AABS] Saved 1533 rows.
+2025-12-10 16:19:22,126 [INFO] --- Processing: AAL ---
+2025-12-10 16:19:23,657 [INFO] [AAL] Saved 1542 rows.
+2025-12-10 16:19:23,657 [INFO] --- Processing: AASM ---
+2025-12-10 16:19:25,295 [INFO] [AASM] Saved 1542 rows.
+2025-12-10 16:19:25,295 [INFO] --- Processing: AATM ---
+2025-12-10 16:19:26,789 [INFO] [AATM] Saved 1537 rows.
+2025-12-10 16:19:26,789 [INFO] --- Processing: ABL ---
+2025-12-10 16:19:28,795 [INFO] [ABL] Saved 1533 rows.
+2025-12-10 16:19:28,795 [INFO] --- Processing: ABOT ---
+2025-12-10 16:19:30,873 [INFO] [ABOT] Saved 1533 rows.
+2025-12-10 16:19:30,873 [INFO] --- Processing: ABSON ---
+2025-12-10 16:19:35,111 [WARNING] [ABSON] No data found (Empty DataFrame).
+2025-12-10 16:19:35,116 [INFO] --- Processing: ACIETF ---
+2025-12-10 16:19:38,679 [WARNING] [ACIETF] No data found (Empty DataFrame).
+2025-12-10 16:19:38,686 [INFO] --- Processing: ACPL ---
+2025-12-10 16:19:40,879 [INFO] [ACPL] Saved 1533 rows.
+2025-12-10 16:19:40,879 [INFO] --- Processing: ADAMS ---
+2025-12-10 16:19:42,390 [INFO] [ADAMS] Saved 1533 rows.
+2025-12-10 16:19:42,391 [INFO] --- Processing: ADMM ---
+2025-12-10 16:19:44,014 [INFO] [ADMM] Saved 1533 rows.
+2025-12-10 16:19:44,014 [INFO] --- Processing: AGHA ---
+2025-12-10 16:19:45,558 [INFO] [AGHA] Saved 1313 rows.
+2025-12-10 16:19:45,558 [INFO] --- Processing: AGIC ---
+2025-12-10 16:19:47,328 [INFO] [AGIC] Saved 1534 rows.
+2025-12-10 16:19:47,343 [INFO] --- Processing: AGICR2 ---
+2025-12-10 16:19:51,564 [WARNING] [AGICR2] No data found (Empty DataFrame).
+2025-12-10 16:19:51,564 [INFO] --- Processing: AGIL ---
+2025-12-10 16:19:53,648 [INFO] [AGIL] Saved 1537 rows.
+2025-12-10 16:19:53,648 [INFO] --- Processing: AGL ---
+2025-12-10 16:19:55,373 [INFO] [AGL] Saved 1533 rows.
+2025-12-10 16:19:55,373 [INFO] --- Processing: AGLNCPS ---
+2025-12-10 16:19:56,540 [INFO] [AGLNCPS] Saved 8 rows.
+2025-12-10 16:19:56,540 [INFO] --- Processing: AGP ---
+2025-12-10 16:19:57,799 [INFO] [AGP] Saved 232 rows.
+2025-12-10 16:19:57,799 [INFO] --- Processing: AGSML ---
+2025-12-10 16:19:59,228 [INFO] [AGSML] Saved 1535 rows.
+2025-12-10 16:19:59,228 [INFO] --- Processing: AGTL ---
+2025-12-10 16:20:00,695 [INFO] [AGTL] Saved 1533 rows.
+2025-12-10 16:20:00,695 [INFO] --- Processing: AHCL ---
+2025-12-10 16:20:02,277 [INFO] [AHCL] Saved 1533 rows.
+2025-12-10 16:20:02,277 [INFO] --- Processing: AHL ---
+2025-12-10 16:20:05,707 [INFO] [AHL] Saved 1533 rows.
+2025-12-10 16:20:05,707 [INFO] --- Processing: AHTM ---
+2025-12-10 16:20:07,424 [INFO] [AHTM] Saved 1541 rows.
+2025-12-10 16:20:07,424 [INFO] --- Processing: AICL ---
+2025-12-10 16:20:09,573 [INFO] [AICL] Saved 1533 rows.
+2025-12-10 16:20:09,573 [INFO] --- Processing: AIRLINK ---
+2025-12-10 16:20:11,021 [INFO] [AIRLINK] Saved 1081 rows.
+2025-12-10 16:20:11,021 [INFO] --- Processing: AKBL ---
+2025-12-10 16:20:12,827 [INFO] [AKBL] Saved 1533 rows.
+2025-12-10 16:20:12,831 [INFO] --- Processing: AKDHL ---
+2025-12-10 16:20:14,450 [INFO] [AKDHL] Saved 1532 rows.
+2025-12-10 16:20:14,450 [INFO] --- Processing: AKDSL ---
+2025-12-10 16:20:16,166 [INFO] [AKDSL] Saved 860 rows.
+2025-12-10 16:20:16,166 [INFO] --- Processing: AKGL ---
+2025-12-10 16:20:17,888 [INFO] [AKGL] Saved 1541 rows.
+2025-12-10 16:20:17,888 [INFO] --- Processing: ALAC ---
+2025-12-10 16:20:19,843 [INFO] [ALAC] Saved 1536 rows.
+2025-12-10 16:20:19,843 [INFO] --- Processing: ALIFE ---
+2025-12-10 16:20:21,348 [INFO] [ALIFE] Saved 965 rows.
+2025-12-10 16:20:21,348 [INFO] --- Processing: ALNRS ---
+2025-12-10 16:20:22,993 [INFO] [ALNRS] Saved 1534 rows.
+2025-12-10 16:20:22,993 [INFO] --- Processing: ALTN ---
+2025-12-10 16:20:25,159 [INFO] [ALTN] Saved 1533 rows.
+2025-12-10 16:20:25,159 [INFO] --- Processing: AMBL ---
+2025-12-10 16:20:26,723 [INFO] [AMBL] Saved 1537 rows.
+2025-12-10 16:20:26,723 [INFO] --- Processing: AMSL ---
+2025-12-10 16:20:28,430 [WARNING] [AMSL] No data found (Empty DataFrame).
+2025-12-10 16:20:28,430 [INFO] --- Processing: AMTEX ---
+2025-12-10 16:20:30,177 [INFO] [AMTEX] Saved 1537 rows.
+2025-12-10 16:20:30,179 [INFO] --- Processing: ANL ---
+2025-12-10 16:20:31,670 [INFO] [ANL] Saved 1533 rows.
+2025-12-10 16:20:31,670 [INFO] --- Processing: ANLNV ---
+2025-12-10 16:20:34,198 [WARNING] [ANLNV] No data found (Empty DataFrame).
+2025-12-10 16:20:34,198 [INFO] --- Processing: ANLPS ---
+2025-12-10 16:20:36,356 [WARNING] [ANLPS] No data found (Empty DataFrame).
+2025-12-10 16:20:36,356 [INFO] --- Processing: ANNT ---
+2025-12-10 16:20:37,678 [INFO] [ANNT] Saved 1542 rows.
+2025-12-10 16:20:37,678 [INFO] --- Processing: ANSM ---
+2025-12-10 16:20:39,572 [INFO] [ANSM] Saved 1544 rows.
+2025-12-10 16:20:39,572 [INFO] --- Processing: ANTM ---
+2025-12-10 16:20:41,109 [INFO] [ANTM] Saved 1540 rows.
+2025-12-10 16:20:41,109 [INFO] --- Processing: APL ---
+2025-12-10 16:20:42,769 [INFO] [APL] Saved 1533 rows.
+2025-12-10 16:20:42,769 [INFO] --- Processing: APOT ---
+2025-12-10 16:20:45,810 [INFO] [APOT] Saved 1542 rows.
+2025-12-10 16:20:45,810 [INFO] --- Processing: ARCTM ---
+2025-12-10 16:20:47,759 [INFO] [ARCTM] Saved 1533 rows.
+2025-12-10 16:20:47,759 [INFO] --- Processing: ARPAK ---
+2025-12-10 16:20:49,116 [INFO] [ARPAK] Saved 1539 rows.
+2025-12-10 16:20:49,116 [INFO] --- Processing: ARPL ---
+2025-12-10 16:20:51,391 [INFO] [ARPL] Saved 1533 rows.
+2025-12-10 16:20:51,403 [INFO] --- Processing: ARUJ ---
+2025-12-10 16:20:53,249 [INFO] [ARUJ] Saved 1536 rows.
+2025-12-10 16:20:53,249 [INFO] --- Processing: ASC ---
+2025-12-10 16:20:55,248 [INFO] [ASC] Saved 1533 rows.
+2025-12-10 16:20:55,248 [INFO] --- Processing: ASHT ---
+2025-12-10 16:20:56,865 [INFO] [ASHT] Saved 1538 rows.
+2025-12-10 16:20:56,865 [INFO] --- Processing: ASIC ---
+2025-12-10 16:20:58,552 [INFO] [ASIC] Saved 1541 rows.
+2025-12-10 16:20:58,552 [INFO] --- Processing: ASL ---
+2025-12-10 16:20:59,990 [INFO] [ASL] Saved 1533 rows.
+2025-12-10 16:20:59,990 [INFO] --- Processing: ASLCPS ---
+2025-12-10 16:21:01,592 [INFO] [ASLCPS] Saved 1541 rows.
+2025-12-10 16:21:01,592 [INFO] --- Processing: ASLPS ---
+2025-12-10 16:21:03,354 [INFO] [ASLPS] Saved 1538 rows.
+2025-12-10 16:21:03,355 [INFO] --- Processing: ASTL ---
+2025-12-10 16:21:05,387 [INFO] [ASTL] Saved 1533 rows.
+2025-12-10 16:21:05,387 [INFO] --- Processing: ASTM ---
+2025-12-10 16:21:07,051 [INFO] [ASTM] Saved 1533 rows.
+2025-12-10 16:21:07,052 [INFO] --- Processing: ATBA ---
+2025-12-10 16:21:08,885 [INFO] [ATBA] Saved 1533 rows.
+2025-12-10 16:21:08,885 [INFO] --- Processing: ATIL ---
+2025-12-10 16:21:10,678 [INFO] [ATIL] Saved 1534 rows.
+2025-12-10 16:21:10,680 [INFO] --- Processing: ATLH ---
+2025-12-10 16:21:12,521 [INFO] [ATLH] Saved 1533 rows.
+2025-12-10 16:21:12,521 [INFO] --- Processing: ATRL ---
+2025-12-10 16:21:14,556 [INFO] [ATRL] Saved 1533 rows.
+2025-12-10 16:21:14,556 [INFO] --- Processing: AVN ---
+2025-12-10 16:21:17,287 [INFO] [AVN] Saved 1537 rows.
+2025-12-10 16:21:17,287 [INFO] --- Processing: AWTX ---
+2025-12-10 16:21:18,912 [INFO] [AWTX] Saved 1543 rows.
+2025-12-10 16:21:18,912 [INFO] --- Processing: AZMT ---
+2025-12-10 16:21:20,211 [WARNING] [AZMT] No data found (Empty DataFrame).
+2025-12-10 16:21:20,211 [INFO] --- Processing: BAFL ---
+2025-12-10 16:21:22,367 [INFO] [BAFL] Saved 1533 rows.
+2025-12-10 16:21:22,367 [INFO] --- Processing: BAFS ---
+2025-12-10 16:21:23,923 [INFO] [BAFS] Saved 1540 rows.
+2025-12-10 16:21:23,923 [INFO] --- Processing: BAHL ---
+2025-12-10 16:21:25,652 [INFO] [BAHL] Saved 1533 rows.
+2025-12-10 16:21:25,652 [INFO] --- Processing: BAPL ---
+2025-12-10 16:21:27,115 [INFO] [BAPL] Saved 1527 rows.
+2025-12-10 16:21:27,115 [INFO] --- Processing: BATA ---
+2025-12-10 16:21:29,155 [INFO] [BATA] Saved 1535 rows.
+2025-12-10 16:21:29,155 [INFO] --- Processing: BBFL ---
+2025-12-10 16:21:32,054 [WARNING] [BBFL] No data found (Empty DataFrame).
+2025-12-10 16:21:32,054 [INFO] --- Processing: BCL ---
+2025-12-10 16:21:33,609 [INFO] [BCL] Saved 1533 rows.
+2025-12-10 16:21:33,609 [INFO] --- Processing: BECO ---
+2025-12-10 16:21:35,153 [INFO] [BECO] Saved 1530 rows.
+2025-12-10 16:21:35,153 [INFO] --- Processing: BELA ---
+2025-12-10 16:21:36,694 [INFO] [BELA] Saved 1536 rows.
+2025-12-10 16:21:36,694 [INFO] --- Processing: BERG ---
+2025-12-10 16:21:38,806 [INFO] [BERG] Saved 1533 rows.
+2025-12-10 16:21:38,806 [INFO] --- Processing: BFAGRO ---
+2025-12-10 16:21:40,915 [WARNING] [BFAGRO] No data found (Empty DataFrame).
+2025-12-10 16:21:40,915 [INFO] --- Processing: BFBIO ---
+2025-12-10 16:21:43,585 [WARNING] [BFBIO] No data found (Empty DataFrame).
+2025-12-10 16:21:43,585 [INFO] --- Processing: BFMOD ---
+2025-12-10 16:21:45,577 [INFO] [BFMOD] Saved 1538 rows.
+2025-12-10 16:21:45,577 [INFO] --- Processing: BGL ---
+2025-12-10 16:21:47,556 [INFO] [BGL] Saved 1533 rows.
+2025-12-10 16:21:47,556 [INFO] --- Processing: BHAT ---
+2025-12-10 16:21:49,253 [INFO] [BHAT] Saved 1539 rows.
+2025-12-10 16:21:49,253 [INFO] --- Processing: BIFO ---
+2025-12-10 16:21:51,428 [INFO] [BIFO] Saved 1533 rows.
+2025-12-10 16:21:51,428 [INFO] --- Processing: BIIC ---
+2025-12-10 16:21:52,385 [WARNING] [BIIC] No data found (Empty DataFrame).
+2025-12-10 16:21:52,385 [INFO] --- Processing: BIPL ---
+2025-12-10 16:21:54,084 [INFO] [BIPL] Saved 1533 rows.
+2025-12-10 16:21:54,084 [INFO] --- Processing: BML ---
+2025-12-10 16:21:55,989 [WARNING] [BML] No data found (Empty DataFrame).
+2025-12-10 16:21:55,989 [INFO] --- Processing: BNL ---
+2025-12-10 16:21:57,842 [INFO] [BNL] Saved 1533 rows.
+2025-12-10 16:21:57,842 [INFO] --- Processing: BNWM ---
+2025-12-10 16:21:59,544 [INFO] [BNWM] Saved 1534 rows.
+2025-12-10 16:21:59,545 [INFO] --- Processing: BOK ---
+2025-12-10 16:22:01,104 [INFO] [BOK] Saved 1534 rows.
+2025-12-10 16:22:01,104 [INFO] --- Processing: BOP ---
+2025-12-10 16:22:03,049 [INFO] [BOP] Saved 1533 rows.
+2025-12-10 16:22:03,049 [INFO] --- Processing: BPL ---
+2025-12-10 16:22:04,455 [INFO] [BPL] Saved 1536 rows.
+2025-12-10 16:22:04,461 [INFO] --- Processing: BRRG ---
+2025-12-10 16:22:06,993 [WARNING] [BRRG] No data found (Empty DataFrame).
+2025-12-10 16:22:06,993 [INFO] --- Processing: BTL ---
+2025-12-10 16:22:08,591 [INFO] [BTL] Saved 1535 rows.
+2025-12-10 16:22:08,591 [INFO] --- Processing: BUXL ---
+2025-12-10 16:22:10,216 [INFO] [BUXL] Saved 1533 rows.
+2025-12-10 16:22:10,216 [INFO] --- Processing: BWCL ---
+2025-12-10 16:22:11,951 [INFO] [BWCL] Saved 1533 rows.
+2025-12-10 16:22:11,951 [INFO] --- Processing: BWHL ---
+2025-12-10 16:22:13,344 [INFO] [BWHL] Saved 1535 rows.
+2025-12-10 16:22:13,344 [INFO] --- Processing: CASH ---
+2025-12-10 16:22:15,362 [INFO] [CASH] Saved 1535 rows.
+2025-12-10 16:22:15,365 [INFO] --- Processing: CCM ---
+2025-12-10 16:22:17,399 [INFO] [CCM] Saved 1540 rows.
+2025-12-10 16:22:17,399 [INFO] --- Processing: CENI ---
+2025-12-10 16:22:19,899 [INFO] [CENI] Saved 1534 rows.
+2025-12-10 16:22:19,899 [INFO] --- Processing: CEPB ---
+2025-12-10 16:22:22,107 [INFO] [CEPB] Saved 1533 rows.
+2025-12-10 16:22:22,107 [INFO] --- Processing: CFL ---
+2025-12-10 16:22:23,680 [INFO] [CFL] Saved 1543 rows.
+2025-12-10 16:22:23,680 [INFO] --- Processing: CHAS ---
+2025-12-10 16:22:25,102 [INFO] [CHAS] Saved 1533 rows.
+2025-12-10 16:22:25,102 [INFO] --- Processing: CHBL ---
+2025-12-10 16:22:26,719 [INFO] [CHBL] Saved 1537 rows.
+2025-12-10 16:22:26,728 [INFO] --- Processing: CHCC ---
+2025-12-10 16:22:30,484 [INFO] [CHCC] Saved 1533 rows.
+2025-12-10 16:22:30,488 [INFO] --- Processing: CJPL ---
+2025-12-10 16:22:32,007 [INFO] [CJPL] Saved 1537 rows.
+2025-12-10 16:22:32,007 [INFO] --- Processing: CLCPS ---
+2025-12-10 16:22:34,145 [INFO] [CLCPS] Saved 1537 rows.
+2025-12-10 16:22:34,145 [INFO] --- Processing: CLOV ---
+2025-12-10 16:22:36,262 [INFO] [CLOV] Saved 1533 rows.
+2025-12-10 16:22:36,262 [INFO] --- Processing: CLVL ---
+2025-12-10 16:22:38,392 [INFO] [CLVL] Saved 1532 rows.
+2025-12-10 16:22:38,392 [INFO] --- Processing: CNERGY ---
+2025-12-10 16:22:39,899 [INFO] [CNERGY] Saved 1531 rows.
+2025-12-10 16:22:39,899 [INFO] --- Processing: COLG ---
+2025-12-10 16:22:41,938 [INFO] [COLG] Saved 1533 rows.
+2025-12-10 16:22:41,938 [INFO] --- Processing: CPHL ---
+2025-12-10 16:22:43,342 [INFO] [CPHL] Saved 1133 rows.
+2025-12-10 16:22:43,342 [INFO] --- Processing: CPPL ---
+2025-12-10 16:22:46,304 [INFO] [CPPL] Saved 1535 rows.
+2025-12-10 16:22:46,304 [INFO] --- Processing: CRTM ---
+2025-12-10 16:22:49,564 [INFO] [CRTM] Saved 1533 rows.
+2025-12-10 16:22:49,564 [INFO] --- Processing: CSAP ---
+2025-12-10 16:22:52,645 [INFO] [CSAP] Saved 1533 rows.
+2025-12-10 16:22:52,645 [INFO] --- Processing: CSIL ---
+2025-12-10 16:22:54,258 [INFO] [CSIL] Saved 1533 rows.
+2025-12-10 16:22:54,258 [INFO] --- Processing: CTM ---
+2025-12-10 16:22:55,673 [INFO] [CTM] Saved 1533 rows.
+2025-12-10 16:22:55,673 [INFO] --- Processing: CWSM ---
+2025-12-10 16:22:57,257 [INFO] [CWSM] Saved 1531 rows.
+2025-12-10 16:22:57,257 [INFO] --- Processing: CYAN ---
+2025-12-10 16:22:59,603 [INFO] [CYAN] Saved 1533 rows.
+2025-12-10 16:22:59,603 [INFO] --- Processing: DAAG ---
+2025-12-10 16:23:01,052 [INFO] [DAAG] Saved 1536 rows.
+2025-12-10 16:23:01,052 [INFO] --- Processing: DADX ---
+2025-12-10 16:23:02,935 [INFO] [DADX] Saved 1537 rows.
+2025-12-10 16:23:02,935 [INFO] --- Processing: DBCI ---
+2025-12-10 16:23:04,692 [INFO] [DBCI] Saved 1537 rows.
+2025-12-10 16:23:04,692 [INFO] --- Processing: DBSL ---
+2025-12-10 16:23:06,654 [WARNING] [DBSL] No data found (Empty DataFrame).
+2025-12-10 16:23:06,654 [INFO] --- Processing: DCL ---
+2025-12-10 16:23:08,314 [INFO] [DCL] Saved 1533 rows.
+2025-12-10 16:23:08,316 [INFO] --- Processing: DCR ---
+2025-12-10 16:23:10,207 [INFO] [DCR] Saved 1533 rows.
+2025-12-10 16:23:10,207 [INFO] --- Processing: DCTL ---
+2025-12-10 16:23:11,647 [INFO] [DCTL] Saved 1544 rows.
+2025-12-10 16:23:11,653 [INFO] --- Processing: DEL ---
+2025-12-10 16:23:15,522 [INFO] [DEL] Saved 1533 rows.
+2025-12-10 16:23:15,522 [INFO] --- Processing: DFML ---
+2025-12-10 16:23:17,471 [INFO] [DFML] Saved 1533 rows.
+2025-12-10 16:23:17,471 [INFO] --- Processing: DFSM ---
+2025-12-10 16:23:19,390 [INFO] [DFSM] Saved 1533 rows.
+2025-12-10 16:23:19,390 [INFO] --- Processing: DGKC ---
+2025-12-10 16:23:21,082 [INFO] [DGKC] Saved 1533 rows.
+2025-12-10 16:23:21,082 [INFO] --- Processing: DHPL ---
+2025-12-10 16:23:25,993 [WARNING] [DHPL] No data found (Empty DataFrame).
+2025-12-10 16:23:25,996 [INFO] --- Processing: DIIL ---
+2025-12-10 16:23:27,479 [INFO] [DIIL] Saved 1539 rows.
+2025-12-10 16:23:27,479 [INFO] --- Processing: DINT ---
+2025-12-10 16:23:29,214 [INFO] [DINT] Saved 1539 rows.
+2025-12-10 16:23:29,214 [INFO] --- Processing: DKTM ---
+2025-12-10 16:23:30,918 [INFO] [DKTM] Saved 1544 rows.
+2025-12-10 16:23:30,918 [INFO] --- Processing: DLL ---
+2025-12-10 16:23:32,642 [INFO] [DLL] Saved 1539 rows.
+2025-12-10 16:23:32,642 [INFO] --- Processing: DMC ---
+2025-12-10 16:23:34,599 [WARNING] [DMC] No data found (Empty DataFrame).
+2025-12-10 16:23:34,599 [INFO] --- Processing: DMTM ---
+2025-12-10 16:23:36,470 [INFO] [DMTM] Saved 1536 rows.
+2025-12-10 16:23:36,471 [INFO] --- Processing: DNCC ---
+2025-12-10 16:23:38,015 [INFO] [DNCC] Saved 1533 rows.
+2025-12-10 16:23:38,015 [INFO] --- Processing: DOL ---
+2025-12-10 16:23:40,457 [INFO] [DOL] Saved 1533 rows.
+2025-12-10 16:23:40,457 [INFO] --- Processing: DSFL ---
+2025-12-10 16:23:41,566 [INFO] [DSFL] Saved 1544 rows.
+2025-12-10 16:23:41,566 [INFO] --- Processing: DSIL ---
+2025-12-10 16:23:43,072 [INFO] [DSIL] Saved 1533 rows.
+2025-12-10 16:23:43,087 [INFO] --- Processing: DSL ---
+2025-12-10 16:23:44,864 [INFO] [DSL] Saved 1533 rows.
+2025-12-10 16:23:44,864 [INFO] --- Processing: DWAE ---
+2025-12-10 16:23:46,794 [INFO] [DWAE] Saved 1537 rows.
+2025-12-10 16:23:46,794 [INFO] --- Processing: DWSM ---
+2025-12-10 16:23:48,562 [INFO] [DWSM] Saved 1534 rows.
+2025-12-10 16:23:48,562 [INFO] --- Processing: DWTM ---
+2025-12-10 16:23:50,093 [INFO] [DWTM] Saved 1537 rows.
+2025-12-10 16:23:50,096 [INFO] --- Processing: DYNO ---
+2025-12-10 16:23:51,948 [INFO] [DYNO] Saved 1533 rows.
+2025-12-10 16:23:51,948 [INFO] --- Processing: ECOP ---
+2025-12-10 16:23:54,109 [INFO] [ECOP] Saved 1535 rows.
+2025-12-10 16:23:54,109 [INFO] --- Processing: EFERT ---
+2025-12-10 16:23:55,738 [INFO] [EFERT] Saved 1533 rows.
+2025-12-10 16:23:55,738 [INFO] --- Processing: EFUG ---
+2025-12-10 16:23:57,469 [INFO] [EFUG] Saved 1535 rows.
+2025-12-10 16:23:57,469 [INFO] --- Processing: EFUL ---
+2025-12-10 16:23:58,989 [INFO] [EFUL] Saved 1538 rows.
+2025-12-10 16:23:59,005 [INFO] --- Processing: ELCM ---
+2025-12-10 16:24:00,467 [INFO] [ELCM] Saved 1538 rows.
+2025-12-10 16:24:00,469 [INFO] --- Processing: ELSM ---
+2025-12-10 16:24:01,965 [INFO] [ELSM] Saved 1537 rows.
+2025-12-10 16:24:01,965 [INFO] --- Processing: EMCO ---
+2025-12-10 16:24:03,464 [INFO] [EMCO] Saved 1532 rows.
+2025-12-10 16:24:03,464 [INFO] --- Processing: ENGL ---
+2025-12-10 16:24:05,153 [INFO] [ENGL] Saved 1542 rows.
+2025-12-10 16:24:05,153 [INFO] --- Processing: ENGROH ---
+2025-12-10 16:24:07,749 [WARNING] [ENGROH] No data found (Empty DataFrame).
+2025-12-10 16:24:07,749 [INFO] --- Processing: EPCL ---
+2025-12-10 16:24:09,823 [INFO] [EPCL] Saved 1533 rows.
+2025-12-10 16:24:09,823 [INFO] --- Processing: EPCLPS ---
+2025-12-10 16:24:11,357 [INFO] [EPCLPS] Saved 1275 rows.
+2025-12-10 16:24:11,357 [INFO] --- Processing: EPQL ---
+2025-12-10 16:24:14,026 [INFO] [EPQL] Saved 1533 rows.
+2025-12-10 16:24:14,026 [INFO] --- Processing: ESBL ---
+2025-12-10 16:24:15,779 [INFO] [ESBL] Saved 1535 rows.
+2025-12-10 16:24:15,779 [INFO] --- Processing: EWIC ---
+2025-12-10 16:24:17,463 [INFO] [EWIC] Saved 1544 rows.
+2025-12-10 16:24:17,463 [INFO] --- Processing: EXIDE ---
+2025-12-10 16:24:19,600 [INFO] [EXIDE] Saved 1533 rows.
+2025-12-10 16:24:19,600 [INFO] --- Processing: FABL ---
+2025-12-10 16:24:21,308 [INFO] [FABL] Saved 1533 rows.
+2025-12-10 16:24:21,308 [INFO] --- Processing: FAEL ---
+2025-12-10 16:24:22,754 [INFO] [FAEL] Saved 1544 rows.
+2025-12-10 16:24:22,754 [INFO] --- Processing: FANM ---
+2025-12-10 16:24:24,519 [INFO] [FANM] Saved 1542 rows.
+2025-12-10 16:24:24,529 [INFO] --- Processing: FASM ---
+2025-12-10 16:24:26,266 [INFO] [FASM] Saved 1536 rows.
+2025-12-10 16:24:26,266 [INFO] --- Processing: FATIMA ---
+2025-12-10 16:24:28,726 [INFO] [FATIMA] Saved 1533 rows.
+2025-12-10 16:24:28,726 [INFO] --- Processing: FCCL ---
+2025-12-10 16:24:30,689 [INFO] [FCCL] Saved 1533 rows.
+2025-12-10 16:24:30,689 [INFO] --- Processing: FCEL ---
+2025-12-10 16:24:32,306 [INFO] [FCEL] Saved 1539 rows.
+2025-12-10 16:24:32,306 [INFO] --- Processing: FCEPL ---
+2025-12-10 16:24:34,691 [INFO] [FCEPL] Saved 1533 rows.
+2025-12-10 16:24:34,691 [INFO] --- Processing: FCIBL ---
+2025-12-10 16:24:36,756 [INFO] [FCIBL] Saved 1538 rows.
+2025-12-10 16:24:36,756 [INFO] --- Processing: FCL ---
+2025-12-10 16:24:39,139 [WARNING] [FCL] No data found (Empty DataFrame).
+2025-12-10 16:24:39,139 [INFO] --- Processing: FCONM ---
+2025-12-10 16:24:41,709 [WARNING] [FCONM] No data found (Empty DataFrame).
+2025-12-10 16:24:41,710 [INFO] --- Processing: FCSC ---
+2025-12-10 16:24:43,236 [INFO] [FCSC] Saved 1533 rows.
+2025-12-10 16:24:43,236 [INFO] --- Processing: FDPL ---
+2025-12-10 16:24:44,994 [INFO] [FDPL] Saved 1531 rows.
+2025-12-10 16:24:45,008 [INFO] --- Processing: FECM ---
+2025-12-10 16:24:46,843 [INFO] [FECM] Saved 1537 rows.
+2025-12-10 16:24:46,843 [INFO] --- Processing: FECTC ---
+2025-12-10 16:24:48,690 [INFO] [FECTC] Saved 1533 rows.
+2025-12-10 16:24:48,691 [INFO] --- Processing: FEM ---
+2025-12-10 16:24:50,445 [INFO] [FEM] Saved 1537 rows.
+2025-12-10 16:24:50,446 [INFO] --- Processing: FEROZ ---
+2025-12-10 16:24:52,274 [INFO] [FEROZ] Saved 1533 rows.
+2025-12-10 16:24:52,274 [INFO] --- Processing: FFC ---
+2025-12-10 16:24:53,947 [INFO] [FFC] Saved 1533 rows.
+2025-12-10 16:24:53,947 [INFO] --- Processing: FFL ---
+2025-12-10 16:24:55,984 [INFO] [FFL] Saved 1533 rows.
+2025-12-10 16:24:55,984 [INFO] --- Processing: FFLM ---
+2025-12-10 16:24:57,610 [INFO] [FFLM] Saved 1537 rows.
+2025-12-10 16:24:57,610 [INFO] --- Processing: FHAM ---
+2025-12-10 16:24:59,160 [INFO] [FHAM] Saved 1536 rows.
+2025-12-10 16:24:59,160 [INFO] --- Processing: FIBLM ---
+2025-12-10 16:25:00,697 [INFO] [FIBLM] Saved 1537 rows.
+2025-12-10 16:25:00,697 [INFO] --- Processing: FIL ---
+2025-12-10 16:25:02,097 [INFO] [FIL] Saved 1539 rows.
+2025-12-10 16:25:02,097 [INFO] --- Processing: FIM ---
+2025-12-10 16:25:04,345 [WARNING] [FIM] No data found (Empty DataFrame).
+2025-12-10 16:25:04,345 [INFO] --- Processing: FIMM ---
+2025-12-10 16:25:05,745 [INFO] [FIMM] Saved 1543 rows.
+2025-12-10 16:25:05,745 [INFO] --- Processing: FLYNG ---
+2025-12-10 16:25:08,194 [INFO] [FLYNG] Saved 1533 rows.
+2025-12-10 16:25:08,194 [INFO] --- Processing: FML ---
+2025-12-10 16:25:09,725 [INFO] [FML] Saved 1536 rows.
+2025-12-10 16:25:09,725 [INFO] --- Processing: FNBM ---
+2025-12-10 16:25:11,404 [INFO] [FNBM] Saved 1541 rows.
+2025-12-10 16:25:11,404 [INFO] --- Processing: FNEL ---
+2025-12-10 16:25:12,972 [INFO] [FNEL] Saved 1533 rows.
+2025-12-10 16:25:12,972 [INFO] --- Processing: FPJM ---
+2025-12-10 16:25:14,384 [INFO] [FPJM] Saved 1534 rows.
+2025-12-10 16:25:14,384 [INFO] --- Processing: FPRM ---
+2025-12-10 16:25:16,759 [INFO] [FPRM] Saved 1534 rows.
+2025-12-10 16:25:16,759 [INFO] --- Processing: FRCL ---
+2025-12-10 16:25:18,915 [INFO] [FRCL] Saved 1537 rows.
+2025-12-10 16:25:18,918 [INFO] --- Processing: FRSM ---
+2025-12-10 16:25:20,622 [INFO] [FRSM] Saved 1535 rows.
+2025-12-10 16:25:20,622 [INFO] --- Processing: FSWL ---
+2025-12-10 16:25:22,097 [INFO] [FSWL] Saved 1538 rows.
+2025-12-10 16:25:22,097 [INFO] --- Processing: FTHM ---
+2025-12-10 16:25:24,134 [INFO] [FTHM] Saved 1544 rows.
+2025-12-10 16:25:24,134 [INFO] --- Processing: FTMM ---
+2025-12-10 16:25:25,945 [INFO] [FTMM] Saved 1533 rows.
+2025-12-10 16:25:25,945 [INFO] --- Processing: FTSM ---
+2025-12-10 16:25:27,595 [INFO] [FTSM] Saved 1538 rows.
+2025-12-10 16:25:27,595 [INFO] --- Processing: FZCM ---
+2025-12-10 16:25:30,057 [INFO] [FZCM] Saved 1539 rows.
+2025-12-10 16:25:30,057 [INFO] --- Processing: GADT ---
+2025-12-10 16:25:32,091 [INFO] [GADT] Saved 1533 rows.
+2025-12-10 16:25:32,091 [INFO] --- Processing: GAL ---
+2025-12-10 16:25:34,732 [WARNING] [GAL] No data found (Empty DataFrame).
+2025-12-10 16:25:34,742 [INFO] --- Processing: GAMON ---
+2025-12-10 16:25:36,811 [INFO] [GAMON] Saved 1536 rows.
+2025-12-10 16:25:36,811 [INFO] --- Processing: GATI ---
+2025-12-10 16:25:38,617 [INFO] [GATI] Saved 1535 rows.
+2025-12-10 16:25:38,617 [INFO] --- Processing: GATM ---
+2025-12-10 16:25:40,666 [INFO] [GATM] Saved 1533 rows.
+2025-12-10 16:25:40,666 [INFO] --- Processing: GCIL ---
+2025-12-10 16:25:42,069 [INFO] [GCIL] Saved 781 rows.
+2025-12-10 16:25:42,069 [INFO] --- Processing: GCWL ---
+2025-12-10 16:25:45,172 [WARNING] [GCWL] No data found (Empty DataFrame).
+2025-12-10 16:25:45,172 [INFO] --- Processing: GEMBCEM ---
+2025-12-10 16:25:48,309 [WARNING] [GEMBCEM] No data found (Empty DataFrame).
+2025-12-10 16:25:48,320 [INFO] --- Processing: GEMBLUEX ---
+2025-12-10 16:25:49,906 [INFO] [GEMBLUEX] Saved 1031 rows.
+2025-12-10 16:25:49,906 [INFO] --- Processing: GEMMEL ---
+2025-12-10 16:25:51,639 [WARNING] [GEMMEL] No data found (Empty DataFrame).
+2025-12-10 16:25:51,639 [INFO] --- Processing: GEMNETS ---
+2025-12-10 16:25:54,638 [WARNING] [GEMNETS] No data found (Empty DataFrame).
+2025-12-10 16:25:54,638 [INFO] --- Processing: GEMPACRA ---
+2025-12-10 16:25:56,803 [WARNING] [GEMPACRA] No data found (Empty DataFrame).
+2025-12-10 16:25:56,805 [INFO] --- Processing: GEMPAPL ---
+2025-12-10 16:25:58,449 [INFO] [GEMPAPL] Saved 957 rows.
+2025-12-10 16:25:58,449 [INFO] --- Processing: GEMSPNL ---
+2025-12-10 16:26:00,014 [INFO] [GEMSPNL] Saved 885 rows.
+2025-12-10 16:26:00,014 [INFO] --- Processing: GFIL ---
+2025-12-10 16:26:01,411 [INFO] [GFIL] Saved 1536 rows.
+2025-12-10 16:26:01,411 [INFO] --- Processing: GGGL ---
+2025-12-10 16:26:03,048 [INFO] [GGGL] Saved 1533 rows.
+2025-12-10 16:26:03,048 [INFO] --- Processing: GGL ---
+2025-12-10 16:26:04,824 [INFO] [GGL] Saved 1533 rows.
+2025-12-10 16:26:04,834 [INFO] --- Processing: GHGL ---
+2025-12-10 16:26:06,900 [INFO] [GHGL] Saved 1533 rows.
+2025-12-10 16:26:06,900 [INFO] --- Processing: GHNI ---
+2025-12-10 16:26:09,050 [INFO] [GHNI] Saved 1533 rows.
+2025-12-10 16:26:09,050 [INFO] --- Processing: GIL ---
+2025-12-10 16:26:10,203 [INFO] [GIL] Saved 1542 rows.
+2025-12-10 16:26:10,203 [INFO] --- Processing: GLAXO ---
+2025-12-10 16:26:12,526 [INFO] [GLAXO] Saved 1533 rows.
+2025-12-10 16:26:12,526 [INFO] --- Processing: GLOT ---
+2025-12-10 16:26:14,367 [INFO] [GLOT] Saved 1544 rows.
+2025-12-10 16:26:14,367 [INFO] --- Processing: GLPL ---
+2025-12-10 16:26:16,163 [INFO] [GLPL] Saved 1533 rows.
+2025-12-10 16:26:16,164 [INFO] --- Processing: GOC ---
+2025-12-10 16:26:17,730 [INFO] [GOC] Saved 1537 rows.
+2025-12-10 16:26:17,730 [INFO] --- Processing: GRR ---
+2025-12-10 16:26:19,226 [INFO] [GRR] Saved 743 rows.
+2025-12-10 16:26:19,226 [INFO] --- Processing: GRYL ---
+2025-12-10 16:26:20,847 [INFO] [GRYL] Saved 1537 rows.
+2025-12-10 16:26:20,847 [INFO] --- Processing: GSPM ---
+2025-12-10 16:26:22,436 [INFO] [GSPM] Saved 1537 rows.
+2025-12-10 16:26:22,436 [INFO] --- Processing: GTYR ---
+2025-12-10 16:26:24,482 [INFO] [GTYR] Saved 1533 rows.
+2025-12-10 16:26:24,482 [INFO] --- Processing: GUSM ---
+2025-12-10 16:26:26,240 [INFO] [GUSM] Saved 1537 rows.
+2025-12-10 16:26:26,240 [INFO] --- Processing: GUTM ---
+2025-12-10 16:26:28,770 [INFO] [GUTM] Saved 1544 rows.
+2025-12-10 16:26:28,770 [INFO] --- Processing: GVGL ---
+2025-12-10 16:26:30,788 [INFO] [GVGL] Saved 1533 rows.
+2025-12-10 16:26:30,788 [INFO] --- Processing: GWLC ---
+2025-12-10 16:26:32,666 [INFO] [GWLC] Saved 1533 rows.
+2025-12-10 16:26:32,668 [INFO] --- Processing: HABSM ---
+2025-12-10 16:26:34,175 [INFO] [HABSM] Saved 1533 rows.
+2025-12-10 16:26:34,175 [INFO] --- Processing: HADC ---
+2025-12-10 16:26:35,592 [INFO] [HADC] Saved 1542 rows.
+2025-12-10 16:26:35,594 [INFO] --- Processing: HAEL ---
+2025-12-10 16:26:37,071 [INFO] [HAEL] Saved 1533 rows.
+2025-12-10 16:26:37,071 [INFO] --- Processing: HAFL ---
+2025-12-10 16:26:38,461 [INFO] [HAFL] Saved 1539 rows.
+2025-12-10 16:26:38,461 [INFO] --- Processing: HAJT ---
+2025-12-10 16:26:39,942 [INFO] [HAJT] Saved 1542 rows.
+2025-12-10 16:26:39,942 [INFO] --- Processing: HALEON ---
+2025-12-10 16:26:41,678 [INFO] [HALEON] Saved 1531 rows.
+2025-12-10 16:26:41,678 [INFO] --- Processing: HASCOL ---
+2025-12-10 16:26:43,317 [INFO] [HASCOL] Saved 1533 rows.
+2025-12-10 16:26:43,317 [INFO] --- Processing: HATM ---
+2025-12-10 16:26:44,645 [INFO] [HATM] Saved 1544 rows.
+2025-12-10 16:26:44,645 [INFO] --- Processing: HBL ---
+2025-12-10 16:26:47,553 [INFO] [HBL] Saved 1533 rows.
+2025-12-10 16:26:47,553 [INFO] --- Processing: HBLTETF ---
+2025-12-10 16:26:50,361 [WARNING] [HBLTETF] No data found (Empty DataFrame).
+2025-12-10 16:26:50,361 [INFO] --- Processing: HCAR ---
+2025-12-10 16:26:53,048 [INFO] [HCAR] Saved 1533 rows.
+2025-12-10 16:26:53,048 [INFO] --- Processing: HGFA ---
+2025-12-10 16:26:54,730 [ERROR] [HGFA] CRITICAL ERROR: unsupported operand type(s) for +: 'float' and 'str'
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 218, in _na_arithmetic_op
+    result = func(left, right)
+             ^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 242, in evaluate
+    return _evaluate(op, op_str, a, b)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 73, in _evaluate_standard
+    return op(a, b)
+           ^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\technical\main.py", line 34, in main
+    cleaned_data = clean_psx_data(raw_data, ticker)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\technical\data_cleaner.py", line 101, in clean_psx_data
+    df['Adjusted_Value'] = (df['Close'] * final_split) + df['Dividends']
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\arraylike.py", line 186, in __add__
+    return self._arith_method(other, operator.add)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\series.py", line 6154, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\base.py", line 1391, in _arith_method
+    result = ops.arithmetic_op(lvalues, rvalues, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 283, in arithmetic_op
+    res_values = _na_arithmetic_op(left, right, op)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 227, in _na_arithmetic_op
+    result = _masked_arith_op(left, right, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 163, in _masked_arith_op
+    result[mask] = op(xrav[mask], yrav[mask])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2025-12-10 16:26:54,969 [INFO] --- Processing: HICL ---
+2025-12-10 16:26:56,676 [INFO] [HICL] Saved 1535 rows.
+2025-12-10 16:26:56,676 [INFO] --- Processing: HIFA ---
+2025-12-10 16:26:58,127 [ERROR] [HIFA] CRITICAL ERROR: unsupported operand type(s) for +: 'float' and 'str'
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 218, in _na_arithmetic_op
+    result = func(left, right)
+             ^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 242, in evaluate
+    return _evaluate(op, op_str, a, b)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 73, in _evaluate_standard
+    return op(a, b)
+           ^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\technical\main.py", line 34, in main
+    cleaned_data = clean_psx_data(raw_data, ticker)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\technical\data_cleaner.py", line 101, in clean_psx_data
+    df['Adjusted_Value'] = (df['Close'] * final_split) + df['Dividends']
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\arraylike.py", line 186, in __add__
+    return self._arith_method(other, operator.add)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\series.py", line 6154, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\base.py", line 1391, in _arith_method
+    result = ops.arithmetic_op(lvalues, rvalues, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 283, in arithmetic_op
+    res_values = _na_arithmetic_op(left, right, op)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 227, in _na_arithmetic_op
+    result = _masked_arith_op(left, right, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 163, in _masked_arith_op
+    result[mask] = op(xrav[mask], yrav[mask])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2025-12-10 16:26:58,127 [INFO] --- Processing: HINO ---
+2025-12-10 16:26:59,925 [INFO] [HINO] Saved 1533 rows.
+2025-12-10 16:26:59,925 [INFO] --- Processing: HINOON ---
+2025-12-10 16:27:01,791 [INFO] [HINOON] Saved 1533 rows.
+2025-12-10 16:27:01,791 [INFO] --- Processing: HIRAT ---
+2025-12-10 16:27:03,548 [INFO] [HIRAT] Saved 1535 rows.
+2025-12-10 16:27:03,548 [INFO] --- Processing: HKKT ---
+2025-12-10 16:27:05,181 [INFO] [HKKT] Saved 1542 rows.
+2025-12-10 16:27:05,181 [INFO] --- Processing: HMB ---
+2025-12-10 16:27:07,053 [INFO] [HMB] Saved 1533 rows.
+2025-12-10 16:27:07,053 [INFO] --- Processing: HMIM ---
+2025-12-10 16:27:08,128 [INFO] [HMIM] Saved 1542 rows.
+2025-12-10 16:27:08,128 [INFO] --- Processing: HPL ---
+2025-12-10 16:27:09,636 [INFO] [HPL] Saved 1532 rows.
+2025-12-10 16:27:09,636 [INFO] --- Processing: HRPL ---
+2025-12-10 16:27:10,967 [INFO] [HRPL] Saved 1535 rows.
+2025-12-10 16:27:10,967 [INFO] --- Processing: HSPI ---
+2025-12-10 16:27:12,997 [INFO] [HSPI] Saved 1540 rows.
+2025-12-10 16:27:12,997 [INFO] --- Processing: HTL ---
+2025-12-10 16:27:14,621 [INFO] [HTL] Saved 1533 rows.
+2025-12-10 16:27:14,621 [INFO] --- Processing: HUBC ---
+2025-12-10 16:27:16,733 [INFO] [HUBC] Saved 1533 rows.
+2025-12-10 16:27:16,733 [INFO] --- Processing: HUMNL ---
+2025-12-10 16:27:18,776 [INFO] [HUMNL] Saved 1533 rows.
+2025-12-10 16:27:18,776 [INFO] --- Processing: HUSI ---
+2025-12-10 16:27:20,244 [INFO] [HUSI] Saved 1537 rows.
+2025-12-10 16:27:20,257 [INFO] --- Processing: HWQS ---
+2025-12-10 16:27:21,661 [INFO] [HWQS] Saved 1536 rows.
+2025-12-10 16:27:21,661 [INFO] --- Processing: IBFL ---
+2025-12-10 16:27:23,389 [INFO] [IBFL] Saved 1535 rows.
+2025-12-10 16:27:23,389 [INFO] --- Processing: IBLHL ---
+2025-12-10 16:27:25,475 [INFO] [IBLHL] Saved 1533 rows.
+2025-12-10 16:27:25,475 [INFO] --- Processing: ICCI ---
+2025-12-10 16:27:27,005 [INFO] [ICCI] Saved 1537 rows.
+2025-12-10 16:27:27,005 [INFO] --- Processing: ICIBL ---
+2025-12-10 16:27:28,762 [INFO] [ICIBL] Saved 1533 rows.
+2025-12-10 16:27:28,762 [INFO] --- Processing: ICL ---
+2025-12-10 16:27:30,749 [INFO] [ICL] Saved 1533 rows.
+2025-12-10 16:27:30,749 [INFO] --- Processing: IDRT ---
+2025-12-10 16:27:32,183 [INFO] [IDRT] Saved 1537 rows.
+2025-12-10 16:27:32,183 [INFO] --- Processing: IDSM ---
+2025-12-10 16:27:33,813 [INFO] [IDSM] Saved 1540 rows.
+2025-12-10 16:27:33,813 [INFO] --- Processing: IDYM ---
+2025-12-10 16:27:35,479 [INFO] [IDYM] Saved 1533 rows.
+2025-12-10 16:27:35,479 [INFO] --- Processing: IGIHL ---
+2025-12-10 16:27:37,589 [INFO] [IGIHL] Saved 1533 rows.
+2025-12-10 16:27:37,589 [INFO] --- Processing: IGIL ---
+2025-12-10 16:27:39,359 [INFO] [IGIL] Saved 1534 rows.
+2025-12-10 16:27:39,359 [INFO] --- Processing: ILP ---
+2025-12-10 16:27:41,436 [INFO] [ILP] Saved 1533 rows.
+2025-12-10 16:27:41,436 [INFO] --- Processing: IMAGE ---
+2025-12-10 16:27:43,607 [INFO] [IMAGE] Saved 1531 rows.
+2025-12-10 16:27:43,619 [INFO] --- Processing: IML ---
+2025-12-10 16:27:45,635 [INFO] [IML] Saved 1536 rows.
+2025-12-10 16:27:45,636 [INFO] --- Processing: IMS ---
+2025-12-10 16:27:47,679 [WARNING] [IMS] No data found (Empty DataFrame).
+2025-12-10 16:27:47,679 [INFO] --- Processing: INDU ---
+2025-12-10 16:27:49,451 [INFO] [INDU] Saved 1533 rows.
+2025-12-10 16:27:49,451 [INFO] --- Processing: INIL ---
+2025-12-10 16:27:51,997 [INFO] [INIL] Saved 1533 rows.
+2025-12-10 16:27:51,997 [INFO] --- Processing: INKL ---
+2025-12-10 16:27:53,751 [INFO] [INKL] Saved 1537 rows.
+2025-12-10 16:27:53,751 [INFO] --- Processing: INMF ---
+2025-12-10 16:27:56,727 [WARNING] [INMF] No data found (Empty DataFrame).
+2025-12-10 16:27:56,727 [INFO] --- Processing: IPAK ---
+2025-12-10 16:27:58,576 [WARNING] [IPAK] No data found (Empty DataFrame).
+2025-12-10 16:27:58,576 [INFO] --- Processing: IREIT ---
+2025-12-10 16:28:01,328 [WARNING] [IREIT] No data found (Empty DataFrame).
+2025-12-10 16:28:01,328 [INFO] --- Processing: ISIL ---
+2025-12-10 16:28:02,837 [INFO] [ISIL] Saved 1536 rows.
+2025-12-10 16:28:02,837 [INFO] --- Processing: ISL ---
+2025-12-10 16:28:04,453 [INFO] [ISL] Saved 1533 rows.
+2025-12-10 16:28:04,453 [INFO] --- Processing: ITANZ ---
+2025-12-10 16:28:06,496 [WARNING] [ITANZ] No data found (Empty DataFrame).
+2025-12-10 16:28:06,496 [INFO] --- Processing: ITTEFAQ ---
+2025-12-10 16:28:08,185 [INFO] [ITTEFAQ] Saved 1533 rows.
+2025-12-10 16:28:08,185 [INFO] --- Processing: JATM ---
+2025-12-10 16:28:09,701 [INFO] [JATM] Saved 1534 rows.
+2025-12-10 16:28:09,701 [INFO] --- Processing: JDMT ---
+2025-12-10 16:28:11,199 [INFO] [JDMT] Saved 1535 rows.
+2025-12-10 16:28:11,199 [INFO] --- Processing: JDWS ---
+2025-12-10 16:28:12,726 [INFO] [JDWS] Saved 1535 rows.
+2025-12-10 16:28:12,726 [INFO] --- Processing: JGICL ---
+2025-12-10 16:28:14,653 [INFO] [JGICL] Saved 1531 rows.
+2025-12-10 16:28:14,653 [INFO] --- Processing: JKSM ---
+2025-12-10 16:28:16,813 [INFO] [JKSM] Saved 1537 rows.
+2025-12-10 16:28:16,815 [INFO] --- Processing: JLICL ---
+2025-12-10 16:28:19,070 [INFO] [JLICL] Saved 1534 rows.
+2025-12-10 16:28:19,070 [INFO] --- Processing: JSBL ---
+2025-12-10 16:28:20,828 [INFO] [JSBL] Saved 1533 rows.
+2025-12-10 16:28:20,828 [INFO] --- Processing: JSCL ---
+2025-12-10 16:28:22,785 [INFO] [JSCL] Saved 1533 rows.
+2025-12-10 16:28:22,786 [INFO] --- Processing: JSCLPSA ---
+2025-12-10 16:28:24,271 [INFO] [JSCLPSA] Saved 1116 rows.
+2025-12-10 16:28:24,271 [INFO] --- Processing: JSGBETF ---
+2025-12-10 16:28:27,175 [WARNING] [JSGBETF] No data found (Empty DataFrame).
+2025-12-10 16:28:27,175 [INFO] --- Processing: JSGCL ---
+2025-12-10 16:28:28,982 [INFO] [JSGCL] Saved 1535 rows.
+2025-12-10 16:28:28,982 [INFO] --- Processing: JSIL ---
+2025-12-10 16:28:30,427 [INFO] [JSIL] Saved 1534 rows.
+2025-12-10 16:28:30,427 [INFO] --- Processing: JSMFETF ---
+2025-12-10 16:28:32,228 [WARNING] [JSMFETF] No data found (Empty DataFrame).
+2025-12-10 16:28:32,228 [INFO] --- Processing: JSML ---
+2025-12-10 16:28:33,928 [INFO] [JSML] Saved 1533 rows.
+2025-12-10 16:28:33,928 [INFO] --- Processing: JUBS ---
+2025-12-10 16:28:35,325 [INFO] [JUBS] Saved 1534 rows.
+2025-12-10 16:28:35,325 [INFO] --- Processing: JVDC ---
+2025-12-10 16:28:37,107 [INFO] [JVDC] Saved 1534 rows.
+2025-12-10 16:28:37,107 [INFO] --- Processing: JVDCPS ---
+2025-12-10 16:28:38,619 [INFO] [JVDCPS] Saved 1542 rows.
+2025-12-10 16:28:38,619 [INFO] --- Processing: KAKL ---
+2025-12-10 16:28:39,802 [WARNING] [KAKL] No data found (Empty DataFrame).
+2025-12-10 16:28:39,802 [INFO] --- Processing: KAPCO ---
+2025-12-10 16:28:41,765 [INFO] [KAPCO] Saved 1533 rows.
+2025-12-10 16:28:41,765 [INFO] --- Processing: KCL ---
+2025-12-10 16:28:43,331 [INFO] [KCL] Saved 1541 rows.
+2025-12-10 16:28:43,333 [INFO] --- Processing: KEL ---
+2025-12-10 16:28:44,814 [INFO] [KEL] Saved 1533 rows.
+2025-12-10 16:28:44,814 [INFO] --- Processing: KHTC ---
+2025-12-10 16:28:47,952 [INFO] [KHTC] Saved 1533 rows.
+2025-12-10 16:28:47,952 [INFO] --- Processing: KHYT ---
+2025-12-10 16:28:49,465 [INFO] [KHYT] Saved 1537 rows.
+2025-12-10 16:28:49,466 [INFO] --- Processing: KML ---
+2025-12-10 16:28:51,005 [INFO] [KML] Saved 1536 rows.
+2025-12-10 16:28:51,005 [INFO] --- Processing: KOHC ---
+2025-12-10 16:28:52,596 [INFO] [KOHC] Saved 1532 rows.
+2025-12-10 16:28:52,596 [INFO] --- Processing: KOHE ---
+2025-12-10 16:28:54,659 [INFO] [KOHE] Saved 1533 rows.
+2025-12-10 16:28:54,659 [INFO] --- Processing: KOHP ---
+2025-12-10 16:28:57,488 [INFO] [KOHP] Saved 1533 rows.
+2025-12-10 16:28:57,489 [INFO] --- Processing: KOHTM ---
+2025-12-10 16:28:59,112 [INFO] [KOHTM] Saved 1533 rows.
+2025-12-10 16:28:59,112 [INFO] --- Processing: KOIL ---
+2025-12-10 16:29:01,771 [INFO] [KOIL] Saved 1533 rows.
+2025-12-10 16:29:01,771 [INFO] --- Processing: KOSM ---
+2025-12-10 16:29:03,297 [INFO] [KOSM] Saved 1533 rows.
+2025-12-10 16:29:03,297 [INFO] --- Processing: KPUS ---
+2025-12-10 16:29:04,769 [INFO] [KPUS] Saved 1536 rows.
+2025-12-10 16:29:04,780 [INFO] --- Processing: KSBP ---
+2025-12-10 16:29:06,215 [INFO] [KSBP] Saved 1533 rows.
+2025-12-10 16:29:06,215 [INFO] --- Processing: KSTM ---
+2025-12-10 16:29:07,781 [INFO] [KSTM] Saved 1537 rows.
+2025-12-10 16:29:07,781 [INFO] --- Processing: KTML ---
+2025-12-10 16:29:09,578 [INFO] [KTML] Saved 1533 rows.
+2025-12-10 16:29:09,578 [INFO] --- Processing: LCI ---
+2025-12-10 16:29:11,668 [INFO] [LCI] Saved 1529 rows.
+2025-12-10 16:29:11,668 [INFO] --- Processing: LEUL ---
+2025-12-10 16:29:13,104 [INFO] [LEUL] Saved 1533 rows.
+2025-12-10 16:29:13,104 [INFO] --- Processing: LIVEN ---
+2025-12-10 16:29:15,983 [WARNING] [LIVEN] No data found (Empty DataFrame).
+2025-12-10 16:29:15,983 [INFO] --- Processing: LOADS ---
+2025-12-10 16:29:18,257 [INFO] [LOADS] Saved 1533 rows.
+2025-12-10 16:29:18,257 [INFO] --- Processing: LOTCHEM ---
+2025-12-10 16:29:20,311 [INFO] [LOTCHEM] Saved 1533 rows.
+2025-12-10 16:29:20,311 [INFO] --- Processing: LPGL ---
+2025-12-10 16:29:22,868 [INFO] [LPGL] Saved 1533 rows.
+2025-12-10 16:29:22,868 [INFO] --- Processing: LPL ---
+2025-12-10 16:29:24,767 [INFO] [LPL] Saved 1533 rows.
+2025-12-10 16:29:24,767 [INFO] --- Processing: LSECL ---
+2025-12-10 16:29:26,712 [INFO] [LSECL] Saved 390 rows.
+2025-12-10 16:29:26,714 [INFO] --- Processing: LSEFSL ---
+2025-12-10 16:29:28,779 [INFO] [LSEFSL] Saved 385 rows.
+2025-12-10 16:29:28,779 [INFO] --- Processing: LSEVL ---
+2025-12-10 16:29:31,407 [WARNING] [LSEVL] No data found (Empty DataFrame).
+2025-12-10 16:29:31,407 [INFO] --- Processing: LUCK ---
+2025-12-10 16:29:34,241 [INFO] [LUCK] Saved 1530 rows.
+2025-12-10 16:29:34,241 [INFO] --- Processing: MACFL ---
+2025-12-10 16:29:36,305 [INFO] [MACFL] Saved 1533 rows.
+2025-12-10 16:29:36,320 [INFO] --- Processing: MACTER ---
+2025-12-10 16:29:38,721 [INFO] [MACTER] Saved 1535 rows.
+2025-12-10 16:29:38,721 [INFO] --- Processing: MARI ---
+2025-12-10 16:29:42,303 [INFO] [MARI] Saved 1533 rows.
+2025-12-10 16:29:42,303 [INFO] --- Processing: MCB ---
+2025-12-10 16:29:45,826 [INFO] [MCB] Saved 1533 rows.
+2025-12-10 16:29:45,826 [INFO] --- Processing: MCBIM ---
+2025-12-10 16:29:47,501 [INFO] [MCBIM] Saved 1531 rows.
+2025-12-10 16:29:47,501 [INFO] --- Processing: MDTL ---
+2025-12-10 16:29:49,127 [INFO] [MDTL] Saved 1533 rows.
+2025-12-10 16:29:49,127 [INFO] --- Processing: MEBL ---
+2025-12-10 16:29:51,030 [INFO] [MEBL] Saved 1533 rows.
+2025-12-10 16:29:51,030 [INFO] --- Processing: MEHT ---
+2025-12-10 16:29:53,283 [INFO] [MEHT] Saved 1535 rows.
+2025-12-10 16:29:53,283 [INFO] --- Processing: MERIT ---
+2025-12-10 16:29:55,530 [INFO] [MERIT] Saved 1533 rows.
+2025-12-10 16:29:55,530 [INFO] --- Processing: MFFL ---
+2025-12-10 16:29:57,394 [INFO] [MFFL] Saved 1533 rows.
+2025-12-10 16:29:57,394 [INFO] --- Processing: MFL ---
+2025-12-10 16:29:59,065 [INFO] [MFL] Saved 1533 rows.
+2025-12-10 16:29:59,068 [INFO] --- Processing: MFTM ---
+2025-12-10 16:30:00,379 [INFO] [MFTM] Saved 1542 rows.
+2025-12-10 16:30:00,379 [INFO] --- Processing: MIIETF ---
+2025-12-10 16:30:02,915 [WARNING] [MIIETF] No data found (Empty DataFrame).
+2025-12-10 16:30:02,915 [INFO] --- Processing: MIRKS ---
+2025-12-10 16:30:05,413 [INFO] [MIRKS] Saved 1533 rows.
+2025-12-10 16:30:05,413 [INFO] --- Processing: MLCF ---
+2025-12-10 16:30:08,063 [INFO] [MLCF] Saved 1533 rows.
+2025-12-10 16:30:08,063 [INFO] --- Processing: MOHE ---
+2025-12-10 16:30:09,766 [WARNING] [MOHE] No data found (Empty DataFrame).
+2025-12-10 16:30:09,772 [INFO] --- Processing: MQTM ---
+2025-12-10 16:30:11,318 [INFO] [MQTM] Saved 1538 rows.
+2025-12-10 16:30:11,318 [INFO] --- Processing: MRNS ---
+2025-12-10 16:30:13,352 [INFO] [MRNS] Saved 1533 rows.
+2025-12-10 16:30:13,352 [INFO] --- Processing: MSCL ---
+2025-12-10 16:30:15,637 [INFO] [MSCL] Saved 1537 rows.
+2025-12-10 16:30:15,638 [INFO] --- Processing: MSOT ---
+2025-12-10 16:30:17,444 [INFO] [MSOT] Saved 1538 rows.
+2025-12-10 16:30:17,444 [INFO] --- Processing: MSOTPS ---
+2025-12-10 16:30:20,650 [WARNING] [MSOTPS] No data found (Empty DataFrame).
+2025-12-10 16:30:20,650 [INFO] --- Processing: MTL ---
+2025-12-10 16:30:22,632 [INFO] [MTL] Saved 1533 rows.
+2025-12-10 16:30:22,632 [INFO] --- Processing: MUBT ---
+2025-12-10 16:30:24,128 [INFO] [MUBT] Saved 1542 rows.
+2025-12-10 16:30:24,128 [INFO] --- Processing: MUGHAL ---
+2025-12-10 16:30:26,196 [INFO] [MUGHAL] Saved 1533 rows.
+2025-12-10 16:30:26,196 [INFO] --- Processing: MUGHALC ---
+2025-12-10 16:30:28,451 [WARNING] [MUGHALC] No data found (Empty DataFrame).
+2025-12-10 16:30:28,454 [INFO] --- Processing: MUREB ---
+2025-12-10 16:30:30,115 [INFO] [MUREB] Saved 1533 rows.
+2025-12-10 16:30:30,115 [INFO] --- Processing: MWMP ---
+2025-12-10 16:30:31,674 [INFO] [MWMP] Saved 1537 rows.
+2025-12-10 16:30:31,674 [INFO] --- Processing: MZNPETF ---
+2025-12-10 16:30:34,624 [WARNING] [MZNPETF] No data found (Empty DataFrame).
+2025-12-10 16:30:34,633 [INFO] --- Processing: NAFL ---
+2025-12-10 16:30:36,987 [WARNING] [NAFL] No data found (Empty DataFrame).
+2025-12-10 16:30:36,987 [INFO] --- Processing: NAGC ---
+2025-12-10 16:30:38,865 [INFO] [NAGC] Saved 1539 rows.
+2025-12-10 16:30:38,865 [INFO] --- Processing: NATF ---
+2025-12-10 16:30:40,675 [INFO] [NATF] Saved 1533 rows.
+2025-12-10 16:30:40,675 [INFO] --- Processing: NATM ---
+2025-12-10 16:30:42,049 [INFO] [NATM] Saved 1543 rows.
+2025-12-10 16:30:42,049 [INFO] --- Processing: NBP ---
+2025-12-10 16:30:43,870 [INFO] [NBP] Saved 1533 rows.
+2025-12-10 16:30:43,870 [INFO] --- Processing: NBPGETF ---
+2025-12-10 16:30:46,911 [WARNING] [NBPGETF] No data found (Empty DataFrame).
+2025-12-10 16:30:46,911 [INFO] --- Processing: NCL ---
+2025-12-10 16:30:49,392 [INFO] [NCL] Saved 1533 rows.
+2025-12-10 16:30:49,392 [INFO] --- Processing: NCML ---
+2025-12-10 16:30:50,926 [INFO] [NCML] Saved 1534 rows.
+2025-12-10 16:30:50,926 [INFO] --- Processing: NCPL ---
+2025-12-10 16:30:53,455 [INFO] [NCPL] Saved 1533 rows.
+2025-12-10 16:30:53,455 [INFO] --- Processing: NESTLE ---
+2025-12-10 16:30:54,887 [INFO] [NESTLE] Saved 1535 rows.
+2025-12-10 16:30:54,887 [INFO] --- Processing: NETSOL ---
+2025-12-10 16:30:57,314 [INFO] [NETSOL] Saved 1533 rows.
+2025-12-10 16:30:57,314 [INFO] --- Processing: NEXT ---
+2025-12-10 16:30:58,959 [INFO] [NEXT] Saved 1533 rows.
+2025-12-10 16:30:58,959 [INFO] --- Processing: NICL ---
+2025-12-10 16:31:00,658 [INFO] [NICL] Saved 1533 rows.
+2025-12-10 16:31:00,664 [INFO] --- Processing: NINA ---
+2025-12-10 16:31:01,771 [WARNING] [NINA] No data found (Empty DataFrame).
+2025-12-10 16:31:01,771 [INFO] --- Processing: NITGETF ---
+2025-12-10 16:31:03,509 [WARNING] [NITGETF] No data found (Empty DataFrame).
+2025-12-10 16:31:03,509 [INFO] --- Processing: NMFL ---
+2025-12-10 16:31:05,331 [INFO] [NMFL] Saved 1542 rows.
+2025-12-10 16:31:05,331 [INFO] --- Processing: NML ---
+2025-12-10 16:31:08,103 [INFO] [NML] Saved 1533 rows.
+2025-12-10 16:31:08,119 [INFO] --- Processing: NONS ---
+2025-12-10 16:31:10,333 [INFO] [NONS] Saved 1535 rows.
+2025-12-10 16:31:10,349 [INFO] --- Processing: NPL ---
+2025-12-10 16:31:12,418 [INFO] [NPL] Saved 1533 rows.
+2025-12-10 16:31:12,418 [INFO] --- Processing: NRL ---
+2025-12-10 16:31:15,602 [INFO] [NRL] Saved 1533 rows.
+2025-12-10 16:31:15,602 [INFO] --- Processing: NRSL ---
+2025-12-10 16:31:18,635 [INFO] [NRSL] Saved 1533 rows.
+2025-12-10 16:31:18,635 [INFO] --- Processing: NSRM ---
+2025-12-10 16:31:20,743 [INFO] [NSRM] Saved 1539 rows.
+2025-12-10 16:31:20,743 [INFO] --- Processing: OBOY ---
+2025-12-10 16:31:22,284 [INFO] [OBOY] Saved 1531 rows.
+2025-12-10 16:31:22,284 [INFO] --- Processing: OCTOPUS ---
+2025-12-10 16:31:24,255 [INFO] [OCTOPUS] Saved 1071 rows.
+2025-12-10 16:31:24,255 [INFO] --- Processing: OGDC ---
+2025-12-10 16:31:26,427 [INFO] [OGDC] Saved 1533 rows.
+2025-12-10 16:31:26,427 [INFO] --- Processing: OLPL ---
+2025-12-10 16:31:31,377 [INFO] [OLPL] Saved 1533 rows.
+2025-12-10 16:31:31,377 [INFO] --- Processing: OLPM ---
+2025-12-10 16:31:33,441 [INFO] [OLPM] Saved 1531 rows.
+2025-12-10 16:31:33,441 [INFO] --- Processing: OML ---
+2025-12-10 16:31:35,171 [INFO] [OML] Saved 1537 rows.
+2025-12-10 16:31:35,171 [INFO] --- Processing: ORM ---
+2025-12-10 16:31:36,780 [INFO] [ORM] Saved 1536 rows.
+2025-12-10 16:31:36,780 [INFO] --- Processing: OTSU ---
+2025-12-10 16:31:38,542 [INFO] [OTSU] Saved 1533 rows.
+2025-12-10 16:31:38,542 [INFO] --- Processing: PABC ---
+2025-12-10 16:31:40,589 [INFO] [PABC] Saved 1128 rows.
+2025-12-10 16:31:40,589 [INFO] --- Processing: PACE ---
+2025-12-10 16:31:42,129 [INFO] [PACE] Saved 1534 rows.
+2025-12-10 16:31:42,129 [INFO] --- Processing: PAEL ---
+2025-12-10 16:31:44,216 [INFO] [PAEL] Saved 1533 rows.
+2025-12-10 16:31:44,216 [INFO] --- Processing: PAKD ---
+2025-12-10 16:31:46,374 [INFO] [PAKD] Saved 1534 rows.
+2025-12-10 16:31:46,376 [INFO] --- Processing: PAKL ---
+2025-12-10 16:31:47,999 [INFO] [PAKL] Saved 1538 rows.
+2025-12-10 16:31:47,999 [INFO] --- Processing: PAKOXY ---
+2025-12-10 16:31:49,746 [INFO] [PAKOXY] Saved 1533 rows.
+2025-12-10 16:31:49,746 [INFO] --- Processing: PAKRI ---
+2025-12-10 16:31:52,967 [INFO] [PAKRI] Saved 1533 rows.
+2025-12-10 16:31:52,967 [INFO] --- Processing: PAKT ---
+2025-12-10 16:31:55,250 [INFO] [PAKT] Saved 1535 rows.
+2025-12-10 16:31:55,250 [INFO] --- Processing: PASL ---
+2025-12-10 16:31:56,773 [INFO] [PASL] Saved 1533 rows.
+2025-12-10 16:31:56,773 [INFO] --- Processing: PASM ---
+2025-12-10 16:31:58,522 [INFO] [PASM] Saved 1537 rows.
+2025-12-10 16:31:58,522 [INFO] --- Processing: PCAL ---
+2025-12-10 16:32:00,836 [INFO] [PCAL] Saved 1534 rows.
+2025-12-10 16:32:00,836 [INFO] --- Processing: PECO ---
+2025-12-10 16:32:02,310 [INFO] [PECO] Saved 1537 rows.
+2025-12-10 16:32:02,310 [INFO] --- Processing: PGLC ---
+2025-12-10 16:32:03,893 [INFO] [PGLC] Saved 1534 rows.
+2025-12-10 16:32:03,893 [INFO] --- Processing: PHDL ---
+2025-12-10 16:32:05,671 [INFO] [PHDL] Saved 1536 rows.
+2025-12-10 16:32:05,674 [INFO] --- Processing: PIAHCLA ---
+2025-12-10 16:32:07,180 [INFO] [PIAHCLA] Saved 390 rows.
+2025-12-10 16:32:07,180 [INFO] --- Processing: PIAHCLB ---
+2025-12-10 16:32:08,709 [INFO] [PIAHCLB] Saved 391 rows.
+2025-12-10 16:32:08,709 [INFO] --- Processing: PIBTL ---
+2025-12-10 16:32:10,388 [INFO] [PIBTL] Saved 1533 rows.
+2025-12-10 16:32:10,388 [INFO] --- Processing: PICL ---
+2025-12-10 16:32:13,250 [WARNING] [PICL] No data found (Empty DataFrame).
+2025-12-10 16:32:13,250 [INFO] --- Processing: PICT ---
+2025-12-10 16:32:15,439 [INFO] [PICT] Saved 1533 rows.
+2025-12-10 16:32:15,439 [INFO] --- Processing: PIL ---
+2025-12-10 16:32:17,982 [INFO] [PIL] Saved 1533 rows.
+2025-12-10 16:32:17,982 [INFO] --- Processing: PIM ---
+2025-12-10 16:32:19,512 [INFO] [PIM] Saved 1438 rows.
+2025-12-10 16:32:19,513 [INFO] --- Processing: PINL ---
+2025-12-10 16:32:21,397 [INFO] [PINL] Saved 1536 rows.
+2025-12-10 16:32:21,397 [INFO] --- Processing: PIOC ---
+2025-12-10 16:32:23,148 [INFO] [PIOC] Saved 1533 rows.
+2025-12-10 16:32:23,148 [INFO] --- Processing: PKGI ---
+2025-12-10 16:32:24,506 [INFO] [PKGI] Saved 1536 rows.
+2025-12-10 16:32:24,508 [INFO] --- Processing: PKGP ---
+2025-12-10 16:32:26,700 [INFO] [PKGP] Saved 1534 rows.
+2025-12-10 16:32:26,700 [INFO] --- Processing: PKGS ---
+2025-12-10 16:32:30,377 [INFO] [PKGS] Saved 1533 rows.
+2025-12-10 16:32:30,377 [INFO] --- Processing: PMRS ---
+2025-12-10 16:32:32,016 [INFO] [PMRS] Saved 1540 rows.
+2025-12-10 16:32:32,016 [INFO] --- Processing: PNSC ---
+2025-12-10 16:32:34,211 [INFO] [PNSC] Saved 1533 rows.
+2025-12-10 16:32:34,211 [INFO] --- Processing: POL ---
+2025-12-10 16:32:36,215 [INFO] [POL] Saved 1533 rows.
+2025-12-10 16:32:36,215 [INFO] --- Processing: POML ---
+2025-12-10 16:32:37,913 [INFO] [POML] Saved 1533 rows.
+2025-12-10 16:32:37,913 [INFO] --- Processing: POWER ---
+2025-12-10 16:32:39,459 [INFO] [POWER] Saved 1533 rows.
+2025-12-10 16:32:39,459 [INFO] --- Processing: POWERPS ---
+2025-12-10 16:32:41,194 [INFO] [POWERPS] Saved 1343 rows.
+2025-12-10 16:32:41,194 [INFO] --- Processing: PPL ---
+2025-12-10 16:32:43,665 [INFO] [PPL] Saved 1533 rows.
+2025-12-10 16:32:43,665 [INFO] --- Processing: PPP ---
+2025-12-10 16:32:45,396 [INFO] [PPP] Saved 1535 rows.
+2025-12-10 16:32:45,396 [INFO] --- Processing: PPVC ---
+2025-12-10 16:32:47,406 [INFO] [PPVC] Saved 1535 rows.
+2025-12-10 16:32:47,406 [INFO] --- Processing: PREMA ---
+2025-12-10 16:32:49,646 [INFO] [PREMA] Saved 1533 rows.
+2025-12-10 16:32:49,646 [INFO] --- Processing: PRET ---
+2025-12-10 16:32:51,270 [INFO] [PRET] Saved 1536 rows.
+2025-12-10 16:32:51,270 [INFO] --- Processing: PRIB ---
+2025-12-10 16:32:52,712 [WARNING] [PRIB] No data found (Empty DataFrame).
+2025-12-10 16:32:52,712 [INFO] --- Processing: PRIC ---
+2025-12-10 16:32:54,093 [WARNING] [PRIC] No data found (Empty DataFrame).
+2025-12-10 16:32:54,098 [INFO] --- Processing: PRL ---
+2025-12-10 16:32:55,281 [INFO] [PRL] Saved 1533 rows.
+2025-12-10 16:32:55,281 [INFO] --- Processing: PRWM ---
+2025-12-10 16:32:56,231 [INFO] [PRWM] Saved 1542 rows.
+2025-12-10 16:32:56,231 [INFO] --- Processing: PSEL ---
+2025-12-10 16:32:57,382 [INFO] [PSEL] Saved 1536 rows.
+2025-12-10 16:32:57,382 [INFO] --- Processing: PSO ---
+2025-12-10 16:32:58,704 [INFO] [PSO] Saved 1533 rows.
+2025-12-10 16:32:58,704 [INFO] --- Processing: PSX ---
+2025-12-10 16:32:59,992 [INFO] [PSX] Saved 1533 rows.
+2025-12-10 16:32:59,992 [INFO] --- Processing: PSYL ---
+2025-12-10 16:33:01,275 [INFO] [PSYL] Saved 1534 rows.
+2025-12-10 16:33:01,275 [INFO] --- Processing: PTC ---
+2025-12-10 16:33:02,683 [INFO] [PTC] Saved 1533 rows.
+2025-12-10 16:33:02,683 [INFO] --- Processing: PTL ---
+2025-12-10 16:33:04,221 [INFO] [PTL] Saved 1232 rows.
+2025-12-10 16:33:04,221 [INFO] --- Processing: PUDF ---
+2025-12-10 16:33:06,599 [WARNING] [PUDF] No data found (Empty DataFrame).
+2025-12-10 16:33:06,599 [INFO] --- Processing: QUET ---
+2025-12-10 16:33:08,336 [INFO] [QUET] Saved 1536 rows.
+2025-12-10 16:33:08,336 [INFO] --- Processing: QUICE ---
+2025-12-10 16:33:10,051 [INFO] [QUICE] Saved 1533 rows.
+2025-12-10 16:33:10,051 [INFO] --- Processing: RCML ---
+2025-12-10 16:33:11,583 [INFO] [RCML] Saved 1538 rows.
+2025-12-10 16:33:11,583 [INFO] --- Processing: REDCO ---
+2025-12-10 16:33:13,166 [INFO] [REDCO] Saved 1535 rows.
+2025-12-10 16:33:13,166 [INFO] --- Processing: REGAL ---
+2025-12-10 16:33:15,396 [WARNING] [REGAL] No data found (Empty DataFrame).
+2025-12-10 16:33:15,396 [INFO] --- Processing: REWM ---
+2025-12-10 16:33:17,252 [INFO] [REWM] Saved 1537 rows.
+2025-12-10 16:33:17,261 [INFO] --- Processing: RICL ---
+2025-12-10 16:33:19,027 [INFO] [RICL] Saved 1537 rows.
+2025-12-10 16:33:19,041 [INFO] --- Processing: RMPL ---
+2025-12-10 16:33:21,429 [INFO] [RMPL] Saved 1534 rows.
+2025-12-10 16:33:21,429 [INFO] --- Processing: RPL ---
+2025-12-10 16:33:26,153 [INFO] [RPL] Saved 1533 rows.
+2025-12-10 16:33:26,153 [INFO] --- Processing: RUBY ---
+2025-12-10 16:33:27,563 [INFO] [RUBY] Saved 1535 rows.
+2025-12-10 16:33:27,563 [INFO] --- Processing: RUPL ---
+2025-12-10 16:33:29,202 [INFO] [RUPL] Saved 1534 rows.
+2025-12-10 16:33:29,202 [INFO] --- Processing: SAIF ---
+2025-12-10 16:33:31,283 [INFO] [SAIF] Saved 1533 rows.
+2025-12-10 16:33:31,283 [INFO] --- Processing: SANE ---
+2025-12-10 16:33:33,103 [INFO] [SANE] Saved 1540 rows.
+2025-12-10 16:33:33,103 [INFO] --- Processing: SANSM ---
+2025-12-10 16:33:34,780 [INFO] [SANSM] Saved 1537 rows.
+2025-12-10 16:33:34,780 [INFO] --- Processing: SAPT ---
+2025-12-10 16:33:37,029 [INFO] [SAPT] Saved 1535 rows.
+2025-12-10 16:33:37,029 [INFO] --- Processing: SARC ---
+2025-12-10 16:33:38,793 [INFO] [SARC] Saved 1536 rows.
+2025-12-10 16:33:38,808 [INFO] --- Processing: SASML ---
+2025-12-10 16:33:40,860 [INFO] [SASML] Saved 1538 rows.
+2025-12-10 16:33:40,860 [INFO] --- Processing: SAZEW ---
+2025-12-10 16:33:42,572 [INFO] [SAZEW] Saved 1533 rows.
+2025-12-10 16:33:42,572 [INFO] --- Processing: SBL ---
+2025-12-10 16:33:44,126 [INFO] [SBL] Saved 1533 rows.
+2025-12-10 16:33:44,126 [INFO] --- Processing: SCBPL ---
+2025-12-10 16:33:46,196 [INFO] [SCBPL] Saved 1533 rows.
+2025-12-10 16:33:46,196 [INFO] --- Processing: SCHT ---
+2025-12-10 16:33:47,855 [WARNING] [SCHT] No data found (Empty DataFrame).
+2025-12-10 16:33:47,855 [INFO] --- Processing: SCL ---
+2025-12-10 16:33:49,950 [INFO] [SCL] Saved 1538 rows.
+2025-12-10 16:33:49,950 [INFO] --- Processing: SDOT ---
+2025-12-10 16:33:52,390 [WARNING] [SDOT] No data found (Empty DataFrame).
+2025-12-10 16:33:52,390 [INFO] --- Processing: SEARL ---
+2025-12-10 16:33:54,273 [INFO] [SEARL] Saved 1533 rows.
+2025-12-10 16:33:54,273 [INFO] --- Processing: SEL ---
+2025-12-10 16:33:56,495 [INFO] [SEL] Saved 1539 rows.
+2025-12-10 16:33:56,495 [INFO] --- Processing: SEPL ---
+2025-12-10 16:33:58,559 [INFO] [SEPL] Saved 1533 rows.
+2025-12-10 16:33:58,559 [INFO] --- Processing: SERT ---
+2025-12-10 16:34:00,142 [INFO] [SERT] Saved 1535 rows.
+2025-12-10 16:34:00,142 [INFO] --- Processing: SFAT ---
+2025-12-10 16:34:01,881 [INFO] [SFAT] Saved 1544 rows.
+2025-12-10 16:34:01,881 [INFO] --- Processing: SFL ---
+2025-12-10 16:34:03,276 [INFO] [SFL] Saved 1535 rows.
+2025-12-10 16:34:03,276 [INFO] --- Processing: SGABL ---
+2025-12-10 16:34:04,841 [INFO] [SGABL] Saved 1542 rows.
+2025-12-10 16:34:04,843 [INFO] --- Processing: SGF ---
+2025-12-10 16:34:06,253 [INFO] [SGF] Saved 1185 rows.
+2025-12-10 16:34:06,253 [INFO] --- Processing: SGPL ---
+2025-12-10 16:34:09,433 [INFO] [SGPL] Saved 1533 rows.
+2025-12-10 16:34:09,435 [INFO] --- Processing: SHCI ---
+2025-12-10 16:34:11,025 [INFO] [SHCI] Saved 1542 rows.
+2025-12-10 16:34:11,035 [INFO] --- Processing: SHCM ---
+2025-12-10 16:34:12,514 [INFO] [SHCM] Saved 1538 rows.
+2025-12-10 16:34:12,514 [INFO] --- Processing: SHDT ---
+2025-12-10 16:34:14,464 [INFO] [SHDT] Saved 1537 rows.
+2025-12-10 16:34:14,464 [INFO] --- Processing: SHEZ ---
+2025-12-10 16:34:16,421 [INFO] [SHEZ] Saved 1533 rows.
+2025-12-10 16:34:16,421 [INFO] --- Processing: SHFA ---
+2025-12-10 16:34:18,226 [INFO] [SHFA] Saved 1534 rows.
+2025-12-10 16:34:18,226 [INFO] --- Processing: SHJS ---
+2025-12-10 16:34:20,041 [INFO] [SHJS] Saved 1535 rows.
+2025-12-10 16:34:20,041 [INFO] --- Processing: SHNI ---
+2025-12-10 16:34:21,898 [INFO] [SHNI] Saved 1536 rows.
+2025-12-10 16:34:21,898 [INFO] --- Processing: SHSML ---
+2025-12-10 16:34:23,796 [INFO] [SHSML] Saved 1534 rows.
+2025-12-10 16:34:23,796 [INFO] --- Processing: SIBL ---
+2025-12-10 16:34:25,283 [INFO] [SIBL] Saved 1540 rows.
+2025-12-10 16:34:25,283 [INFO] --- Processing: SIEM ---
+2025-12-10 16:34:27,176 [INFO] [SIEM] Saved 1535 rows.
+2025-12-10 16:34:27,176 [INFO] --- Processing: SINDM ---
+2025-12-10 16:34:28,568 [INFO] [SINDM] Saved 1534 rows.
+2025-12-10 16:34:28,568 [INFO] --- Processing: SITC ---
+2025-12-10 16:34:30,093 [INFO] [SITC] Saved 1534 rows.
+2025-12-10 16:34:30,093 [INFO] --- Processing: SKRS ---
+2025-12-10 16:34:31,636 [INFO] [SKRS] Saved 1533 rows.
+2025-12-10 16:34:31,636 [INFO] --- Processing: SLCL ---
+2025-12-10 16:34:33,555 [INFO] [SLCL] Saved 1544 rows.
+2025-12-10 16:34:33,555 [INFO] --- Processing: SLCPA ---
+2025-12-10 16:34:35,771 [WARNING] [SLCPA] No data found (Empty DataFrame).
+2025-12-10 16:34:35,771 [INFO] --- Processing: SLGL ---
+2025-12-10 16:34:38,781 [WARNING] [SLGL] No data found (Empty DataFrame).
+2025-12-10 16:34:38,781 [INFO] --- Processing: SLL ---
+2025-12-10 16:34:40,621 [INFO] [SLL] Saved 1539 rows.
+2025-12-10 16:34:40,621 [INFO] --- Processing: SLYT ---
+2025-12-10 16:34:43,420 [INFO] [SLYT] Saved 1537 rows.
+2025-12-10 16:34:43,420 [INFO] --- Processing: SMCPL ---
+2025-12-10 16:34:44,903 [INFO] [SMCPL] Saved 1533 rows.
+2025-12-10 16:34:44,903 [INFO] --- Processing: SML ---
+2025-12-10 16:34:45,997 [INFO] [SML] Saved 218 rows.
+2025-12-10 16:34:45,997 [INFO] --- Processing: SNAI ---
+2025-12-10 16:34:47,602 [INFO] [SNAI] Saved 1535 rows.
+2025-12-10 16:34:47,602 [INFO] --- Processing: SNBL ---
+2025-12-10 16:34:49,630 [INFO] [SNBL] Saved 1533 rows.
+2025-12-10 16:34:49,630 [INFO] --- Processing: SNGP ---
+2025-12-10 16:34:51,953 [INFO] [SNGP] Saved 1533 rows.
+2025-12-10 16:34:51,953 [INFO] --- Processing: SPCL ---
+2025-12-10 16:34:53,941 [WARNING] [SPCL] No data found (Empty DataFrame).
+2025-12-10 16:34:53,941 [INFO] --- Processing: SPEL ---
+2025-12-10 16:34:56,042 [INFO] [SPEL] Saved 1533 rows.
+2025-12-10 16:34:56,042 [INFO] --- Processing: SPL ---
+2025-12-10 16:34:57,957 [INFO] [SPL] Saved 1533 rows.
+2025-12-10 16:34:57,957 [INFO] --- Processing: SPWL ---
+2025-12-10 16:34:59,875 [INFO] [SPWL] Saved 1533 rows.
+2025-12-10 16:34:59,875 [INFO] --- Processing: SRVI ---
+2025-12-10 16:35:01,803 [INFO] [SRVI] Saved 1533 rows.
+2025-12-10 16:35:01,803 [INFO] --- Processing: SSGC ---
+2025-12-10 16:35:03,871 [INFO] [SSGC] Saved 1533 rows.
+2025-12-10 16:35:03,871 [INFO] --- Processing: SSIC ---
+2025-12-10 16:35:05,398 [INFO] [SSIC] Saved 1542 rows.
+2025-12-10 16:35:05,398 [INFO] --- Processing: SSML ---
+2025-12-10 16:35:08,099 [INFO] [SSML] Saved 1535 rows.
+2025-12-10 16:35:08,099 [INFO] --- Processing: SSOM ---
+2025-12-10 16:35:09,830 [INFO] [SSOM] Saved 1532 rows.
+2025-12-10 16:35:09,830 [INFO] --- Processing: STCL ---
+2025-12-10 16:35:12,668 [INFO] [STCL] Saved 1533 rows.
+2025-12-10 16:35:12,668 [INFO] --- Processing: STJT ---
+2025-12-10 16:35:14,510 [INFO] [STJT] Saved 1537 rows.
+2025-12-10 16:35:14,510 [INFO] --- Processing: STL ---
+2025-12-10 16:35:17,138 [WARNING] [STL] No data found (Empty DataFrame).
+2025-12-10 16:35:17,138 [INFO] --- Processing: STML ---
+2025-12-10 16:35:18,862 [INFO] [STML] Saved 1540 rows.
+2025-12-10 16:35:18,862 [INFO] --- Processing: STPL ---
+2025-12-10 16:35:20,773 [INFO] [STPL] Saved 1533 rows.
+2025-12-10 16:35:20,773 [INFO] --- Processing: STYLERS ---
+2025-12-10 16:35:22,295 [INFO] [STYLERS] Saved 477 rows.
+2025-12-10 16:35:22,295 [INFO] --- Processing: SUHJ ---
+2025-12-10 16:35:23,901 [INFO] [SUHJ] Saved 1538 rows.
+2025-12-10 16:35:23,916 [INFO] --- Processing: SURAJ ---
+2025-12-10 16:35:25,823 [WARNING] [SURAJ] No data found (Empty DataFrame).
+2025-12-10 16:35:25,823 [INFO] --- Processing: SURC ---
+2025-12-10 16:35:27,871 [INFO] [SURC] Saved 1536 rows.
+2025-12-10 16:35:27,871 [INFO] --- Processing: SUTM ---
+2025-12-10 16:35:29,765 [INFO] [SUTM] Saved 1536 rows.
+2025-12-10 16:35:29,765 [INFO] --- Processing: SWL ---
+2025-12-10 16:35:32,253 [WARNING] [SWL] No data found (Empty DataFrame).
+2025-12-10 16:35:32,254 [INFO] --- Processing: SYM ---
+2025-12-10 16:35:34,108 [INFO] [SYM] Saved 543 rows.
+2025-12-10 16:35:34,108 [INFO] --- Processing: SYS ---
+2025-12-10 16:35:36,157 [INFO] [SYS] Saved 1530 rows.
+2025-12-10 16:35:36,157 [INFO] --- Processing: SZTM ---
+2025-12-10 16:35:37,897 [INFO] [SZTM] Saved 1540 rows.
+2025-12-10 16:35:37,899 [INFO] --- Processing: TAJT ---
+2025-12-10 16:35:39,502 [INFO] [TAJT] Saved 1544 rows.
+2025-12-10 16:35:39,502 [INFO] --- Processing: TATM ---
+2025-12-10 16:35:41,089 [INFO] [TATM] Saved 1537 rows.
+2025-12-10 16:35:41,089 [INFO] --- Processing: TBL ---
+2025-12-10 16:35:42,852 [WARNING] [TBL] No data found (Empty DataFrame).
+2025-12-10 16:35:42,852 [INFO] --- Processing: TCORP ---
+2025-12-10 16:35:44,551 [INFO] [TCORP] Saved 1535 rows.
+2025-12-10 16:35:44,551 [INFO] --- Processing: TCORPCPS ---
+2025-12-10 16:35:47,472 [WARNING] [TCORPCPS] No data found (Empty DataFrame).
+2025-12-10 16:35:47,472 [INFO] --- Processing: TELE ---
+2025-12-10 16:35:49,276 [INFO] [TELE] Saved 1533 rows.
+2025-12-10 16:35:49,282 [INFO] --- Processing: TGL ---
+2025-12-10 16:35:51,109 [INFO] [TGL] Saved 1533 rows.
+2025-12-10 16:35:51,109 [INFO] --- Processing: THALL ---
+2025-12-10 16:35:52,828 [INFO] [THALL] Saved 1533 rows.
+2025-12-10 16:35:52,828 [INFO] --- Processing: THCCL ---
+2025-12-10 16:35:54,574 [INFO] [THCCL] Saved 1531 rows.
+2025-12-10 16:35:54,574 [INFO] --- Processing: TICL ---
+2025-12-10 16:35:56,140 [INFO] [TICL] Saved 1536 rows.
+2025-12-10 16:35:56,140 [INFO] --- Processing: TOMCL ---
+2025-12-10 16:35:58,420 [INFO] [TOMCL] Saved 1381 rows.
+2025-12-10 16:35:58,420 [INFO] --- Processing: TOWL ---
+2025-12-10 16:35:59,884 [INFO] [TOWL] Saved 1533 rows.
+2025-12-10 16:35:59,884 [INFO] --- Processing: TPL ---
+2025-12-10 16:36:01,785 [INFO] [TPL] Saved 1533 rows.
+2025-12-10 16:36:01,785 [INFO] --- Processing: TPLI ---
+2025-12-10 16:36:02,956 [INFO] [TPLI] Saved 231 rows.
+2025-12-10 16:36:02,956 [INFO] --- Processing: TPLL ---
+2025-12-10 16:36:05,170 [WARNING] [TPLL] No data found (Empty DataFrame).
+2025-12-10 16:36:05,170 [INFO] --- Processing: TPLP ---
+2025-12-10 16:36:07,380 [INFO] [TPLP] Saved 1534 rows.
+2025-12-10 16:36:07,380 [INFO] --- Processing: TPLRF1 ---
+2025-12-10 16:36:10,420 [WARNING] [TPLRF1] No data found (Empty DataFrame).
+2025-12-10 16:36:10,420 [INFO] --- Processing: TPLT ---
+2025-12-10 16:36:12,213 [INFO] [TPLT] Saved 1374 rows.
+2025-12-10 16:36:12,213 [INFO] --- Processing: TREET ---
+2025-12-10 16:36:14,340 [INFO] [TREET] Saved 1533 rows.
+2025-12-10 16:36:14,340 [INFO] --- Processing: TRG ---
+2025-12-10 16:36:16,377 [INFO] [TRG] Saved 1533 rows.
+2025-12-10 16:36:16,377 [INFO] --- Processing: TRIBL ---
+2025-12-10 16:36:18,021 [INFO] [TRIBL] Saved 1544 rows.
+2025-12-10 16:36:18,023 [INFO] --- Processing: TRIPF ---
+2025-12-10 16:36:19,664 [INFO] [TRIPF] Saved 1534 rows.
+2025-12-10 16:36:19,664 [INFO] --- Processing: TRSM ---
+2025-12-10 16:36:21,156 [INFO] [TRSM] Saved 1535 rows.
+2025-12-10 16:36:21,156 [INFO] --- Processing: TSBL ---
+2025-12-10 16:36:22,642 [INFO] [TSBL] Saved 1541 rows.
+2025-12-10 16:36:22,642 [INFO] --- Processing: TSMF ---
+2025-12-10 16:36:24,153 [ERROR] [TSMF] CRITICAL ERROR: unsupported operand type(s) for +: 'float' and 'str'
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 218, in _na_arithmetic_op
+    result = func(left, right)
+             ^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 242, in evaluate
+    return _evaluate(op, op_str, a, b)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 73, in _evaluate_standard
+    return op(a, b)
+           ^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\technical\main.py", line 34, in main
+    cleaned_data = clean_psx_data(raw_data, ticker)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\technical\data_cleaner.py", line 101, in clean_psx_data
+    df['Adjusted_Value'] = (df['Close'] * final_split) + df['Dividends']
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\arraylike.py", line 186, in __add__
+    return self._arith_method(other, operator.add)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\series.py", line 6154, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\base.py", line 1391, in _arith_method
+    result = ops.arithmetic_op(lvalues, rvalues, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 283, in arithmetic_op
+    res_values = _na_arithmetic_op(left, right, op)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 227, in _na_arithmetic_op
+    result = _masked_arith_op(left, right, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 163, in _masked_arith_op
+    result[mask] = op(xrav[mask], yrav[mask])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2025-12-10 16:36:24,153 [INFO] --- Processing: TSML ---
+2025-12-10 16:36:25,980 [INFO] [TSML] Saved 1541 rows.
+2025-12-10 16:36:25,980 [INFO] --- Processing: TSPL ---
+2025-12-10 16:36:27,702 [INFO] [TSPL] Saved 1534 rows.
+2025-12-10 16:36:27,702 [INFO] --- Processing: UBDL ---
+2025-12-10 16:36:29,159 [INFO] [UBDL] Saved 1534 rows.
+2025-12-10 16:36:29,160 [INFO] --- Processing: UBL ---
+2025-12-10 16:36:31,045 [INFO] [UBL] Saved 1534 rows.
+2025-12-10 16:36:31,045 [INFO] --- Processing: UBLPETF ---
+2025-12-10 16:36:32,601 [WARNING] [UBLPETF] No data found (Empty DataFrame).
+2025-12-10 16:36:32,601 [INFO] --- Processing: UCAPM ---
+2025-12-10 16:36:34,683 [INFO] [UCAPM] Saved 1533 rows.
+2025-12-10 16:36:34,683 [INFO] --- Processing: UDLI ---
+2025-12-10 16:36:35,955 [ERROR] [UDLI] CRITICAL ERROR: unsupported operand type(s) for +: 'float' and 'str'
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 218, in _na_arithmetic_op
+    result = func(left, right)
+             ^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 242, in evaluate
+    return _evaluate(op, op_str, a, b)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\computation\expressions.py", line 73, in _evaluate_standard
+    return op(a, b)
+           ^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\FAST\Thesis\Project\technical\main.py", line 34, in main
+    cleaned_data = clean_psx_data(raw_data, ticker)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\technical\data_cleaner.py", line 101, in clean_psx_data
+    df['Adjusted_Value'] = (df['Close'] * final_split) + df['Dividends']
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\common.py", line 76, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\arraylike.py", line 186, in __add__
+    return self._arith_method(other, operator.add)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\series.py", line 6154, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\base.py", line 1391, in _arith_method
+    result = ops.arithmetic_op(lvalues, rvalues, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 283, in arithmetic_op
+    res_values = _na_arithmetic_op(left, right, op)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 227, in _na_arithmetic_op
+    result = _masked_arith_op(left, right, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FAST\Thesis\Project\myenv\Lib\site-packages\pandas\core\ops\array_ops.py", line 163, in _masked_arith_op
+    result[mask] = op(xrav[mask], yrav[mask])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2025-12-10 16:36:35,972 [INFO] --- Processing: UDPL ---
+2025-12-10 16:36:37,450 [INFO] [UDPL] Saved 1537 rows.
+2025-12-10 16:36:37,450 [INFO] --- Processing: UNIC ---
+2025-12-10 16:36:39,086 [INFO] [UNIC] Saved 1533 rows.
+2025-12-10 16:36:39,086 [INFO] --- Processing: UNITY ---
+2025-12-10 16:36:42,951 [INFO] [UNITY] Saved 1533 rows.
+2025-12-10 16:36:42,951 [INFO] --- Processing: UPFL ---
+2025-12-10 16:36:44,498 [INFO] [UPFL] Saved 1536 rows.
+2025-12-10 16:36:44,498 [INFO] --- Processing: USMT ---
+2025-12-10 16:36:46,273 [INFO] [USMT] Saved 1542 rows.
+2025-12-10 16:36:46,273 [INFO] --- Processing: UVIC ---
+2025-12-10 16:36:48,161 [INFO] [UVIC] Saved 1538 rows.
+2025-12-10 16:36:48,161 [INFO] --- Processing: WAFI ---
+2025-12-10 16:36:50,606 [WARNING] [WAFI] No data found (Empty DataFrame).
+2025-12-10 16:36:50,606 [INFO] --- Processing: WAHN ---
+2025-12-10 16:36:52,073 [INFO] [WAHN] Saved 1535 rows.
+2025-12-10 16:36:52,073 [INFO] --- Processing: WASL ---
+2025-12-10 16:36:54,462 [WARNING] [WASL] No data found (Empty DataFrame).
+2025-12-10 16:36:54,462 [INFO] --- Processing: WAVES ---
+2025-12-10 16:36:57,205 [INFO] [WAVES] Saved 1533 rows.
+2025-12-10 16:36:57,205 [INFO] --- Processing: WAVESAPP ---
+2025-12-10 16:36:58,892 [INFO] [WAVESAPP] Saved 1531 rows.
+2025-12-10 16:36:58,892 [INFO] --- Processing: WTL ---
+2025-12-10 16:37:01,883 [INFO] [WTL] Saved 1533 rows.
+2025-12-10 16:37:01,883 [INFO] --- Processing: YOUW ---
+2025-12-10 16:37:03,523 [INFO] [YOUW] Saved 1533 rows.
+2025-12-10 16:37:03,530 [INFO] --- Processing: ZAHID ---
+2025-12-10 16:37:05,169 [INFO] [ZAHID] Saved 1537 rows.
+2025-12-10 16:37:05,169 [INFO] --- Processing: ZAL ---
+2025-12-10 16:37:08,536 [WARNING] [ZAL] No data found (Empty DataFrame).
+2025-12-10 16:37:08,536 [INFO] --- Processing: ZELP ---
+2025-12-10 16:37:09,859 [INFO] [ZELP] Saved 1542 rows.
+2025-12-10 16:37:09,859 [INFO] --- Processing: ZIL ---
+2025-12-10 16:37:11,668 [INFO] [ZIL] Saved 1538 rows.
+2025-12-10 16:37:11,668 [INFO] --- Processing: ZTL ---
+2025-12-10 16:37:13,093 [INFO] [ZTL] Saved 1537 rows.
+2025-12-10 16:37:13,093 [INFO] --- Processing: ZUMA ---
+2025-12-10 16:37:14,954 [WARNING] [ZUMA] No data found (Empty DataFrame).
+2025-12-10 16:37:14,954 [INFO] ========== FETCH COMPLETE ==========
+2025-12-10 16:37:14,954 [INFO] Success: 487 | Empty: 68 | Failed: 4

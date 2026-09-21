@@ -1,0 +1,14 @@
+yfinance
+pandas
+numpy
+matplotlib
+bs4
+openpyxl
+torch 
+statsmodels 
+networkx 
+scikit-learn 
+transformers 
+accelerate
+pandas_ta
+arch

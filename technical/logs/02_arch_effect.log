@@ -1,0 +1,7 @@
+2025-12-11 16:54:28,108 - INFO - Ljung-Box Test for ARCH Effect:
+2025-12-11 16:54:28,108 - INFO - Lags: 10
+2025-12-11 16:54:28,108 - INFO - p-value: 0.9960267475902141
+2025-12-11 16:54:28,108 - INFO - 
+Result: The p-value is greater than 0.05, so we fail to reject the null hypothesis.
+2025-12-11 16:54:28,108 - INFO - There is no evidence of ARCH effects in the data.
+2025-12-11 16:54:28,363 - INFO - Plot saved to logs\02_arch_effect_plot.png

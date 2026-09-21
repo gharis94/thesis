@@ -1,0 +1,11 @@
+2025-12-11 16:46:37,451 - INFO - Augmented Dickey-Fuller Test:
+2025-12-11 16:46:37,452 - INFO - ADF Statistic: -24.965365121700938
+2025-12-11 16:46:37,452 - INFO - p-value: 0.0
+2025-12-11 16:46:37,452 - INFO - Critical Values:
+2025-12-11 16:46:37,452 - INFO - 	1%: -3.435469111362934
+2025-12-11 16:46:37,452 - INFO - 	5%: -2.8638006501960755
+2025-12-11 16:46:37,452 - INFO - 	10%: -2.567973589477539
+2025-12-11 16:46:37,452 - INFO - 
+Result: The p-value is less than 0.05, so we reject the null hypothesis.
+2025-12-11 16:46:37,452 - INFO - The time series is likely stationary.
+2025-12-11 16:46:37,686 - INFO - Plot saved to logs\01_stationarity_plot.png
